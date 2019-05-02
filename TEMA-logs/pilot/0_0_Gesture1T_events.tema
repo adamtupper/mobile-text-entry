@@ -1,0 +1,393 @@
+[#]Log opened: Thu May 02 14:21:53 GMT+12:00 2019
+[#]one heck of a question
+0	one	pos@0
+860	one	pos@0
+1426	<Sp>	pos@3
+1450	neck	pos@4
+1648	neck	pos@4
+1829	<Sp>	pos@8
+1835	of	pos@9
+3189	of	pos@9
+3197	<Sp>	pos@11
+3222	a	pos@12
+4207	a	pos@12
+5265	<Sp>	pos@13
+5271	question	pos@14
+6659	question	pos@14
+6680	<Entr>	pos@22
+[#]one neck of a question
+[#]motivational seminars make me sick
+0	motivational	pos@0
+1116	motivational	pos@0
+2377	<Sp>	pos@12
+2383	seminars	pos@13
+3486	seminars	pos@13
+4210	<Sp>	pos@21
+4218	make	pos@22
+4544	make	pos@22
+4725	<Sp>	pos@26
+4731	me	pos@27
+5649	me	pos@27
+6237	<Sp>	pos@29
+6242	sick	pos@30
+6985	sick	pos@30
+6992	<Entr>	pos@34
+[#]motivational seminars make me sick
+[#]have a good weekend
+0	have	pos@0
+387	have	pos@0
+392	<Sp>	pos@4
+417	a	pos@5
+1183	a	pos@5
+1597	<Sp>	pos@6
+1602	good	pos@7
+2087	good	pos@7
+3142	<Sp>	pos@11
+3163	weekend	pos@12
+3973	weekend	pos@12
+3981	<Entr>	pos@19
+[#]have a good weekend
+[#]so you think you deserve a raise
+0	so	pos@0
+308	so	pos@0
+586	<Sp>	pos@2
+593	you	pos@3
+1285	you	pos@3
+1863	<Sp>	pos@6
+1869	think	pos@7
+2613	think	pos@7
+2872	<Sp>	pos@12
+2876	you	pos@13
+4082	you	pos@13
+5247	<Sp>	pos@16
+5255	deserve	pos@17
+6098	deserve	pos@17
+6104	<Sp>	pos@24
+6129	a	pos@25
+6655	a	pos@25
+7372	<Sp>	pos@26
+7378	raise	pos@27
+8363	raise	pos@27
+8370	<Entr>	pos@32
+[#]so you think you deserve a raise
+[#]interactions between men and women
+0	interactions	pos@0
+1311	interactions	pos@0
+2240	<Sp>	pos@12
+2247	between	pos@13
+3396	between	pos@13
+3923	<Sp>	pos@20
+3928	men	pos@21
+4170	men	pos@21
+4603	<Sp>	pos@24
+4607	and	pos@25
+5577	and	pos@25
+6477	<Sp>	pos@28
+6482	woman	pos@29
+8533	women	pos@29
+9264	<Entr>	pos@34
+[#]interactions between men and women
+[#]the four seasons will come
+0	the	pos@0
+292	the	pos@0
+726	<Sp>	pos@3
+731	for	pos@4
+2777	four	pos@4
+4253	<Sp>	pos@8
+4280	sessions	pos@9
+5381	seasons	pos@9
+6421	<Sp>	pos@16
+6425	Erik	pos@17
+6751	Erik	pos@17
+7408	<Sp>	pos@21
+7413	come	pos@22
+8609	come	pos@22
+8615	<Entr>	pos@26
+[#]the four seasons Erik come
+[#]the four seasons will come
+0	the	pos@0
+941	the	pos@0
+1569	<Sp>	pos@3
+1573	for	pos@4
+2759	four	pos@4
+4357	<Sp>	pos@8
+4360	seasons	pos@9
+5365	seasons	pos@9
+5733	<Sp>	pos@16
+5741	week	pos@17
+6782	will	pos@17
+8185	<Sp>	pos@21
+8189	come	pos@22
+8920	come	pos@22
+8929	<Entr>	pos@26
+[#]the four seasons will come
+[#]exercise is good for the mind
+0	exercise	pos@0
+846	exercise	pos@0
+1057	<Sp>	pos@8
+1062	is	pos@9
+1843	is	pos@9
+2259	<Sp>	pos@11
+2263	good	pos@12
+3071	good	pos@12
+3506	<Sp>	pos@16
+3512	for	pos@17
+3926	for	pos@17
+4213	<Sp>	pos@20
+4217	the	pos@21
+4938	the	pos@21
+5403	<Sp>	pos@24
+5408	mind	pos@25
+6126	mind	pos@25
+6131	<Entr>	pos@29
+[#]exercise is good for the mind
+[#]i want to hold your hand
+0	i	pos@0
+124	i	pos@0
+615	I	pos@0
+1079	<Sp>	pos@1
+1086	want	pos@2
+1421	want	pos@2
+1586	<Sp>	pos@6
+1593	to	pos@7
+2575	to	pos@7
+3074	<Sp>	pos@9
+3079	hold	pos@10
+4107	hold	pos@10
+4509	<Sp>	pos@14
+4515	your	pos@15
+5403	your	pos@15
+6001	<Sp>	pos@19
+6005	hand	pos@20
+6693	hand	pos@20
+6700	<Entr>	pos@24
+[#]I want to hold your hand
+[#]earth quakes are predictable
+0	earth	pos@0
+1210	earth	pos@0
+2181	<Sp>	pos@5
+2185	wishes	pos@6
+3477	quakes	pos@6
+4326	<Sp>	pos@12
+4333	are	pos@13
+5712	are	pos@13
+7968	<Sp>	pos@16
+7972	perishable	pos@17
+9275	<Bksp>	pos@17
+12110	predictable	pos@17
+13060	predictable	pos@17
+13066	<Entr>	pos@28
+[#]earth quakes are predictable
+[#]one heck of a question
+0	one	pos@0
+878	one	pos@0
+1505	<Sp>	pos@3
+1511	heck	pos@4
+2396	heck	pos@4
+2612	<Sp>	pos@8
+2619	of	pos@9
+3669	of	pos@9
+3673	<Sp>	pos@11
+3698	a	pos@12
+3806	a	pos@12
+4100	a	pos@12
+5132	<Sp>	pos@13
+5142	question	pos@14
+5957	question	pos@14
+5963	<Entr>	pos@22
+[#]one heck of a question
+[#]the minimum amount of time
+0	the	pos@0
+505	the	pos@0
+2054	<Sp>	pos@3
+2058	minimum	pos@4
+3270	minimum	pos@4
+3844	<Sp>	pos@11
+3848	about	pos@12
+5483	<Bksp>	pos@12
+7249	amount	pos@12
+8137	amount	pos@12
+8375	<Sp>	pos@18
+8378	of	pos@19
+8626	of	pos@19
+9064	<Sp>	pos@21
+9069	time	pos@22
+9711	time	pos@22
+9715	<Entr>	pos@26
+[#]the minimum amount of time
+[#]we must redouble our efforts
+0	we	pos@0
+1169	we	pos@0
+1739	<Sp>	pos@2
+1743	must	pos@3
+2982	must	pos@3
+5514	<Sp>	pos@7
+5524	redouble	pos@8
+6742	redouble	pos@8
+6951	<Sp>	pos@16
+6955	or	pos@17
+7478	or	pos@17
+8384	<Sp>	pos@19
+8387	efforts	pos@20
+9938	efforts	pos@20
+9944	<Entr>	pos@27
+[#]we must redouble or efforts
+[#]presidents drive expensive cars
+0	presidents	pos@0
+1051	presidents	pos@0
+1524	<Sp>	pos@10
+1527	drive	pos@11
+2448	drive	pos@11
+4183	<Sp>	pos@16
+4210	expensive	pos@17
+5753	expensive	pos@17
+6155	<Sp>	pos@26
+6161	cars	pos@27
+6749	cars	pos@27
+6753	.	pos@31
+7800	<Bksp>	pos@31
+8192	cars	pos@27
+8204	<Entr>	pos@31
+[#]presidents drive expensive cars
+[#]give me one spoonful of coffee
+0	guide	pos@0
+913	<Bksp>	pos@0
+2125	give	pos@0
+3237	give	pos@0
+3504	<Sp>	pos@4
+3527	me	pos@5
+3761	me	pos@5
+4096	<Sp>	pos@7
+4100	I've	pos@8
+4980	<Bksp>	pos@8
+6752	one	pos@8
+7708	one	pos@8
+9120	<Sp>	pos@11
+9124	sinful	pos@12
+10156	spoonful	pos@12
+11004	<Sp>	pos@20
+11011	of	pos@21
+11909	of	pos@21
+12492	<Sp>	pos@23
+12494	coffee	pos@24
+13322	coffee	pos@24
+13328	<Entr>	pos@30
+[#]give me one spoonful of coffee
+[#]freud wrote of the ego
+0	Freud	pos@0
+2964	Freud	pos@0
+3450	<Sp>	pos@5
+3453	write	pos@6
+4522	wrote	pos@6
+5267	<Sp>	pos@11
+5270	if	pos@12
+5581	if	pos@12
+6004	<Sp>	pos@14
+6030	the	pos@15
+7352	the	pos@15
+7644	<Sp>	pos@18
+7648	ego	pos@19
+8063	ego	pos@19
+8066	<Entr>	pos@22
+[#]Freud wrote if the ego
+[#]space is a high priority
+0	space	pos@0
+825	space	pos@0
+1087	<Sp>	pos@5
+1090	is	pos@6
+1335	is	pos@6
+1340	<Sp>	pos@8
+1368	a	pos@9
+1726	a	pos@9
+2098	<Sp>	pos@10
+2105	high	pos@11
+3047	high	pos@11
+4421	<Sp>	pos@15
+4427	purity	pos@16
+5599	<Bksp>	pos@16
+7663	priory	pos@16
+9431	priory	pos@16
+9437	<Entr>	pos@22
+[#]space is a high priory
+[#]sprawling subdivisions are bad
+0	sprawling	pos@0
+1660	sprawling	pos@0
+4684	<Sp>	pos@9
+4687	subdivisions	pos@10
+5898	subdivisions	pos@10
+6177	<Sp>	pos@22
+6181	are	pos@23
+6765	are	pos@23
+7095	<Sp>	pos@26
+7097	bass	pos@27
+8625	bad	pos@27
+9061	<Entr>	pos@30
+[#]sprawling subdivisions are bad
+[#]consequences of a wrong turn
+0	Costanza's	pos@0
+1179	<Bksp>	pos@0
+5439	consequences	pos@0
+6567	consequences	pos@0
+6767	<Sp>	pos@12
+6771	of	pos@13
+7577	of	pos@13
+7579	<Sp>	pos@15
+7604	a	pos@16
+7974	a	pos@16
+8627	<Sp>	pos@17
+8630	wing	pos@18
+9752	wrong	pos@18
+11320	<Sp>	pos@23
+11325	turn	pos@24
+11791	turn	pos@24
+11799	<Entr>	pos@28
+[#]consequences of a wrong turn
+[#]would you like to come to my house
+0	would	pos@0
+1032	would	pos@0
+1372	<Sp>	pos@5
+1375	you	pos@6
+1666	you	pos@6
+2135	<Sp>	pos@9
+2140	like	pos@10
+2961	like	pos@10
+3171	<Sp>	pos@14
+3173	to	pos@15
+3643	to	pos@15
+4221	<Sp>	pos@17
+4225	come	pos@18
+5381	come	pos@18
+5590	<Sp>	pos@22
+5594	to	pos@23
+5900	to	pos@23
+6071	<Sp>	pos@25
+6074	my	pos@26
+6677	my	pos@26
+7305	<Sp>	pos@28
+7308	house	pos@29
+7864	house	pos@29
+7867	<Entr>	pos@34
+[#]would you like to come to my house
+[#]i watched blazing saddles
+0	i	pos@0
+135	i	pos@0
+846	I	pos@0
+1534	<Sp>	pos@1
+1538	watched	pos@2
+2911	watched	pos@2
+3941	<Sp>	pos@9
+3945	blessing	pos@10
+5525	blazing	pos@10
+6613	<Sp>	pos@17
+6650	s	pos@18
+6796	s	pos@18
+7512	<Sp>	pos@19
+7515	asked	pos@20
+9083	<Bksp>	pos@20
+9430	<Bksp>	pos@19
+9928	<Bksp>	pos@18
+12260	sales	pos@18
+13505	saddles	pos@18
+13936	<Entr>	pos@25
+[#]I watched blazing saddles
+[#]Log closed: Thu May 02 14:25:54 GMT+12:00 2019
