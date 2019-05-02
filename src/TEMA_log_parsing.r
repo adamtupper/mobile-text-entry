@@ -5,8 +5,6 @@
 
 library(tools)
 
-TEMP = "TEMA-logs/pilot"
-
 parse_TEMA_stats_log = function(log_file_path) {
   # Read log file and remove timestamp lines
   lines = readLines(log_file_path)
@@ -36,6 +34,7 @@ parse_TEMA_stats_log = function(log_file_path) {
   log_data['participant_id'] = as.factor(filename_components[1])
   log_data['session_id'] = as.factor(filename_components[2])
   log_data['technique_code'] = as.factor(filename_components[3])
+  log_data['trial'] = as.factor(seq(1, nrow(log_data)))
   
   log_data
 }
@@ -49,5 +48,7 @@ combine_TEMA_stats_logs = function(log_dir) {
   log_data
 }
 
-log_data = combine_TEMA_stats_logs(TEMP)
-log_data
+# Test
+# LOG_DIR = "TEMA-logs/pilot"
+# log_data = combine_TEMA_stats_logs(LOG_DIR)
+# log_data
