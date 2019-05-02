@@ -5,7 +5,7 @@
 
 library(tools)
 
-TEMP = "TEMA-logs/pilot/0_0_Gesture1F_stats.tema"
+TEMP = "TEMA-logs/pilot"
 
 parse_TEMA_stats_log = function(log_file_path) {
   # Read log file and remove timestamp lines
@@ -33,12 +33,21 @@ parse_TEMA_stats_log = function(log_file_path) {
   # Add participant, session and technique information from filename
   filename = file_path_sans_ext(basename(log_file_path))
   filename_components = strsplit(filename, '_')[[1]]
-  log_data['participant_id'] = as.integer(filename_components[1])
-  log_data['session_id'] = as.integer(filename_components[2])
+  log_data['participant_id'] = as.factor(filename_components[1])
+  log_data['session_id'] = as.factor(filename_components[2])
   log_data['technique_code'] = as.factor(filename_components[3])
   
   log_data
 }
 
-log_data = parse_TEMA_stats_log(TEMP)
+
+combine_TEMA_stats_logs = function(log_dir) {
+  log_files = list.files(log_dir, pattern="*_stats.tema", full.names=TRUE, recursive=FALSE)
+  
+  log_data = lapply(log_files, parse_TEMA_stats_log)
+  log_data = do.call(rbind, log_data)
+  log_data
+}
+
+log_data = combine_TEMA_stats_logs(TEMP)
 log_data
