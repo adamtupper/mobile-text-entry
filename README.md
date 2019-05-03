@@ -9,11 +9,11 @@ Execute the following bash commands withing the root directory to perform the fo
 ### Speed analysis (pilot):
 
 ```
-RScript src/speed_analysis.r TEMA-logs/pilot
+Rscript src/speed_analysis.r TEMA-logs/pilot
 ```
 
 ### Acccuracy analysis (pilot):
 
 ```
-RScript src/accuracy_analysis.r TEMA-logs/pilot
+Rscript src/accuracy_analysis.r TEMA-logs/pilot
 ```
