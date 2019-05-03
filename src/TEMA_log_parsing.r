@@ -33,7 +33,8 @@ parse_TEMA_stats_log = function(log_file_path) {
   filename_components = strsplit(filename, '_')[[1]]
   log_data['participant_id'] = as.factor(filename_components[1])
   log_data['session_id'] = as.factor(filename_components[2])
-  log_data['technique_code'] = as.factor(filename_components[3])
+  log_data['interface'] = as.factor(filename_components[3])
+  log_data['posture'] = as.factor(filename_components[4])
   log_data['trial'] = as.factor(seq(1, nrow(log_data)))
   
   log_data
