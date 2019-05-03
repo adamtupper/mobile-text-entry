@@ -1,4 +1,4 @@
-# Perform a multifactor ANOVA  and pairwise t-test analysis for speed.
+# Perform multifactor ANOVA  and pairwise t-test analyses for speed.
 #
 # User must provide the path to the TEMA log directory.
 #
