@@ -1,0 +1,13 @@
+participant,interface,mental_demand,physical_demand,temporal_demand,performance,effort,frustration
+1,Touch1T,3,15,12,17,14,18
+1,Touch1F,1,4,10,13,4,4
+1,Gesture2T,13,10,11,16,10,9
+1,Touch2T,2,2,5,5,5,4
+1,Gesture1F,14,9,9,10,15,13
+1,Gesture1T,17,19,14,18,18,17
+2,Touch1F,19,16,18,8,15,7
+2,Touch2T,12,10,13,5,8,5
+2,Touch1T,14,20,4,7,19,15
+2,Gesture1T,20,19,13,3,16,7
+2,Gesture2T,16,5,10,4,19,19
+2,Gesture1F,12,2,10,2,13,4
