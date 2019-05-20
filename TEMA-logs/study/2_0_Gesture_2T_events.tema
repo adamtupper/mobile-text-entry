@@ -1,0 +1,415 @@
+[#]Log opened: Tue May 14 11:38:49 GMT+12:00 2019
+[#]he underwent triple bypass surgery
+0	he	pos@0
+1090	he	pos@0
+3001	<Sp>	pos@2
+3003	underwent	pos@3
+5551	underwent	pos@3
+7030	<Sp>	pos@12
+7032	truly	pos@13
+9005	triple	pos@13
+12577	<Sp>	pos@19
+12579	bypass	pos@20
+15221	bypass	pos@20
+17009	<Sp>	pos@26
+17011	surgery	pos@27
+18559	surgery	pos@27
+18564	<Entr>	pos@34
+[#]he underwent triple bypass surgery
+[#]healthy food is good for you
+0	has	pos@0
+747	<Bksp>	pos@0
+4108	healthy	pos@0
+5733	healthy	pos@0
+5735	<Sp>	pos@7
+8562	food	pos@8
+9594	food	pos@8
+9928	<Sp>	pos@12
+9929	is	pos@13
+11252	is	pos@13
+11994	<Sp>	pos@15
+11996	good	pos@16
+13640	good	pos@16
+14230	<Sp>	pos@20
+14234	for	pos@21
+15314	for	pos@21
+15810	<Sp>	pos@24
+15826	you	pos@25
+16536	you	pos@25
+16538	<Entr>	pos@28
+[#]healthy food is good for you
+[#]limited warranty of two years
+0	limited	pos@0
+1321	limited	pos@0
+1323	<Sp>	pos@7
+5350	weren't	pos@8
+6953	<Bksp>	pos@8
+7003	<Bksp>	pos@7
+7073	limite	pos@0
+7809	limite	pos@0
+7811	<Sp>	pos@6
+8214	<Bksp>	pos@6
+8880	limited	pos@0
+9143	limited	pos@0
+9145	<Sp>	pos@7
+12413	warranty	pos@8
+13665	warranty	pos@8
+13667	<Sp>	pos@16
+14296	of	pos@17
+15759	of	pos@17
+16186	<Sp>	pos@19
+16190	two	pos@20
+17434	two	pos@20
+18272	<Sp>	pos@23
+18274	years	pos@24
+19307	years	pos@24
+19310	<Entr>	pos@29
+[#]limited warranty of two years
+[#]i can see the rings on saturn
+0	i	pos@0
+125	i	pos@0
+726	I	pos@0
+1305	<Sp>	pos@1
+1308	can	pos@2
+2384	can	pos@2
+2631	<Sp>	pos@5
+2635	see	pos@6
+3406	see	pos@6
+3753	<Sp>	pos@9
+3755	the	pos@10
+4996	the	pos@10
+5890	<Sp>	pos@13
+5892	rings	pos@14
+6863	rings	pos@14
+7024	<Sp>	pos@19
+7025	in	pos@20
+8204	in	pos@20
+9637	<Sp>	pos@22
+9639	Saturn	pos@23
+12371	Saturn	pos@23
+12374	<Entr>	pos@29
+[#]I can see the rings in Saturn
+[#]for your information only
+0	for	pos@0
+978	for	pos@0
+1573	<Sp>	pos@3
+1575	your	pos@4
+2546	your	pos@4
+4768	<Sp>	pos@8
+4770	information	pos@9
+6153	<Bksp>	pos@9
+10364	information	pos@9
+11842	information	pos@9
+11852	<Sp>	pos@20
+12957	only	pos@21
+13716	only	pos@21
+13718	<Entr>	pos@25
+[#]for your information only
+[#]please try to be home before midnight
+0	pleat	pos@0
+1254	please	pos@0
+2976	<Sp>	pos@6
+2977	try	pos@7
+4014	try	pos@7
+4180	<Sp>	pos@10
+4182	to	pos@11
+5547	to	pos@11
+5822	<Sp>	pos@13
+5824	be	pos@14
+6798	be	pos@14
+7632	<Sp>	pos@16
+7636	home	pos@17
+8633	home	pos@17
+10177	<Sp>	pos@21
+10179	before	pos@22
+11971	before	pos@22
+13694	<Sp>	pos@28
+13698	midnight	pos@29
+14912	midnight	pos@29
+14915	<Entr>	pos@37
+[#]please try to be home before midnight
+[#]the fax machine is broken
+0	the	pos@0
+724	the	pos@0
+1418	<Sp>	pos@3
+1423	fax	pos@4
+3479	fax	pos@4
+4865	<Sp>	pos@7
+4867	machine	pos@8
+6023	machine	pos@8
+6347	<Sp>	pos@15
+6350	is	pos@16
+7385	is	pos@16
+8513	<Sp>	pos@18
+8515	broken	pos@19
+9187	broken	pos@19
+9190	<Entr>	pos@25
+[#]the fax machine is broken
+[#]if diplomacy does not work
+0	of	pos@0
+1767	if	pos@0
+6471	<Sp>	pos@2
+6473	diplomacy	pos@3
+7890	diplomacy	pos@3
+8564	<Sp>	pos@12
+8566	does	pos@13
+9608	does	pos@13
+10012	<Sp>	pos@17
+10014	not	pos@18
+11301	not	pos@18
+12151	<Sp>	pos@21
+12153	work	pos@22
+13141	work	pos@22
+13143	<Entr>	pos@26
+[#]if diplomacy does not work
+[#]gamblers eventually loose their shirts
+0	gamblers	pos@0
+1659	gamblers	pos@0
+4516	<Sp>	pos@8
+4518	eventually	pos@9
+5820	eventually	pos@9
+6433	<Sp>	pos@19
+6438	lose	pos@20
+7652	lose	pos@20
+8539	<Sp>	pos@24
+8542	tier	pos@25
+9626	<Bksp>	pos@25
+9848	<Bksp>	pos@24
+10472	lose	pos@20
+10474	<Sp>	pos@24
+10902	<Bksp>	pos@24
+11220	losee	pos@20
+11455	losee	pos@20
+11458	<Sp>	pos@25
+12144	<Bksp>	pos@25
+12282	lose	pos@20
+13480	los	pos@20
+13619	lo	pos@20
+13745	l	pos@20
+14381	<Bksp>	pos@20
+15678	lose	pos@20
+17357	lose	pos@20
+18680	<Sp>	pos@24
+18694	this	pos@25
+20155	<Bksp>	pos@25
+23220	the	pos@25
+23512	<Bksp>	pos@25
+26339	their	pos@25
+27707	their	pos@25
+27709	<Sp>	pos@30
+29767	sorry	pos@31
+30910	<Bksp>	pos@31
+34702	shirts	pos@31
+35621	shirts	pos@31
+35624	<Entr>	pos@37
+[#]gamblers eventually lose their shirts
+[#]i spilled coffee on the carpet
+0	i	pos@0
+124	i	pos@0
+585	I	pos@0
+588	<Sp>	pos@1
+6512	spoiler	pos@2
+8420	spilled	pos@2
+10614	<Sp>	pos@9
+10616	coffee	pos@10
+11767	coffee	pos@10
+11929	<Sp>	pos@16
+11931	on	pos@17
+12384	on	pos@17
+12689	<Sp>	pos@19
+12691	the	pos@20
+13665	the	pos@20
+14970	<Sp>	pos@23
+14973	carpet	pos@24
+16206	carpet	pos@24
+16210	<Entr>	pos@30
+[#]I spilled coffee on the carpet
+[#]the fax machine is broken
+0	the	pos@0
+783	the	pos@0
+1199	<Sp>	pos@3
+1201	fax	pos@4
+2735	fax	pos@4
+4036	<Sp>	pos@7
+4039	machine	pos@8
+5635	machine	pos@8
+5847	<Sp>	pos@15
+5849	is	pos@16
+7077	is	pos@16
+8214	<Sp>	pos@18
+8238	broken	pos@19
+9099	broken	pos@19
+9102	<Entr>	pos@25
+[#]the fax machine is broken
+[#]i want to hold your hand
+0	i	pos@0
+126	i	pos@0
+1150	I	pos@0
+1903	<Sp>	pos@1
+1905	want	pos@2
+2988	want	pos@2
+3117	<Sp>	pos@6
+3119	to	pos@7
+5231	to	pos@7
+6190	<Sp>	pos@9
+6192	hold	pos@10
+7477	hold	pos@10
+8075	<Sp>	pos@14
+8077	your	pos@15
+10384	your	pos@15
+11176	<Sp>	pos@19
+11178	hands	pos@20
+12715	<Bksp>	pos@20
+15044	hand	pos@20
+15976	hand	pos@20
+15981	<Entr>	pos@24
+[#]I want to hold your hand
+[#]join us on the patio
+0	join	pos@0
+989	join	pos@0
+1190	<Sp>	pos@4
+1193	is	pos@5
+2475	is	pos@5
+2670	<Sp>	pos@7
+2672	on	pos@8
+3726	on	pos@8
+4096	<Sp>	pos@10
+4097	the	pos@11
+5071	the	pos@11
+6011	<Sp>	pos@14
+6013	PSO	pos@15
+8251	patio	pos@15
+8980	<Bksp>	pos@19
+10174	patio	pos@15
+10905	patio	pos@15
+10907	<Entr>	pos@20
+[#]join is on the patio
+[#]victims deserve more redress
+0	victims	pos@0
+1237	victims	pos@0
+2561	<Sp>	pos@7
+2563	deserve	pos@8
+4274	deserve	pos@8
+4829	<Sp>	pos@15
+4832	more	pos@16
+6315	more	pos@16
+7368	<Sp>	pos@20
+7370	redress	pos@21
+8507	redress	pos@21
+8510	<Entr>	pos@28
+[#]victims deserve more redress
+[#]goldilocks and the three bears
+0	goldilocks	pos@0
+1854	goldilocks	pos@0
+2327	<Sp>	pos@10
+2330	and	pos@11
+3102	and	pos@11
+3411	<Sp>	pos@14
+3415	the	pos@15
+4444	the	pos@15
+4995	<Sp>	pos@18
+4997	three	pos@19
+6411	three	pos@19
+7135	<Sp>	pos@24
+7138	bears	pos@25
+7872	bears	pos@25
+7878	<Entr>	pos@30
+[#]goldilocks and the three bears
+[#]great disturbance in the force
+0	great	pos@0
+1542	great	pos@0
+4186	<Sp>	pos@5
+4188	distending	pos@6
+5660	disturbance	pos@6
+7053	<Sp>	pos@17
+7058	in	pos@18
+7776	in	pos@18
+8050	<Sp>	pos@20
+8053	the	pos@21
+9089	the	pos@21
+9728	<Sp>	pos@24
+9731	gabi	pos@25
+10815	<Bksp>	pos@25
+13717	force	pos@25
+14637	force	pos@25
+14640	<Entr>	pos@30
+[#]great disturbance in the force
+[#]universities are too expensive
+0	unobscured	pos@0
+1698	<Bksp>	pos@0
+7607	universities	pos@0
+9007	universities	pos@0
+9458	<Sp>	pos@12
+9462	age	pos@13
+10909	are	pos@13
+11859	<Sp>	pos@16
+11861	to	pos@17
+12975	to	pos@17
+15816	<Sp>	pos@19
+15831	expensive	pos@20
+17016	expensive	pos@20
+17019	<Entr>	pos@29
+[#]universities are to expensive
+[#]the coronation was very exciting
+0	the	pos@0
+1148	the	pos@0
+3411	<Sp>	pos@3
+3435	coronation	pos@4
+5088	coronation	pos@4
+5416	<Sp>	pos@14
+5421	was	pos@15
+6277	was	pos@15
+6806	<Sp>	pos@18
+6809	very	pos@19
+8536	very	pos@19
+9271	<Sp>	pos@23
+9286	EEC	pos@24
+9967	<Bksp>	pos@24
+13024	exciting	pos@24
+14280	exciting	pos@24
+14283	<Entr>	pos@32
+[#]the coronation was very exciting
+[#]the king sends you to the tower
+0	the	pos@0
+645	the	pos@0
+1124	<Sp>	pos@3
+1126	king	pos@4
+2175	king	pos@4
+2934	<Sp>	pos@8
+2936	sends	pos@9
+3680	sends	pos@9
+4065	<Sp>	pos@14
+4067	you	pos@15
+5134	you	pos@15
+5283	<Sp>	pos@18
+5285	to	pos@19
+6082	to	pos@19
+6425	<Sp>	pos@21
+6426	the	pos@22
+7538	the	pos@22
+8451	<Sp>	pos@25
+8455	tower	pos@26
+9185	tower	pos@26
+9187	<Entr>	pos@31
+[#]the king sends you to the tower
+[#]take it to the recycling depot
+0	take	pos@0
+1265	take	pos@0
+1415	<Sp>	pos@4
+1417	it	pos@5
+2245	it	pos@5
+2423	<Sp>	pos@7
+2425	to	pos@8
+3161	to	pos@8
+3470	<Sp>	pos@10
+3472	the	pos@11
+4667	the	pos@11
+7239	<Sp>	pos@14
+7243	recycling	pos@15
+8935	recycling	pos@15
+10039	<Sp>	pos@24
+10041	depot	pos@25
+11162	depot	pos@25
+11167	<Entr>	pos@30
+[#]take it to the recycling depot
+[#]Log closed: Tue May 14 11:45:07 GMT+12:00 2019

@@ -1,0 +1,365 @@
+[#]Log opened: Mon May 13 14:27:17 GMT+12:00 2019
+[#]healthy food is good for you
+0	healthy	pos@0
+1783	healthy	pos@0
+2724	<Sp>	pos@7
+2726	good	pos@8
+3707	good	pos@8
+3987	<Sp>	pos@12
+3989	I'd	pos@13
+4580	I'd	pos@13
+5157	<Sp>	pos@16
+5159	good	pos@17
+5878	good	pos@17
+6429	<Sp>	pos@21
+6431	for	pos@22
+7140	for	pos@22
+7478	<Sp>	pos@25
+7480	you	pos@26
+8722	you	pos@26
+8725	<Entr>	pos@29
+[#]healthy good I'd good for you
+[#]dashing through the snow
+0	dashing	pos@0
+1086	dashing	pos@0
+3752	<Sp>	pos@7
+3755	through	pos@8
+4677	through	pos@8
+4988	<Sp>	pos@15
+4990	the	pos@16
+6040	the	pos@16
+6863	<Sp>	pos@19
+6865	snow	pos@20
+8357	snow	pos@20
+8360	<Entr>	pos@24
+[#]dashing through the snow
+[#]frequently asked questions
+0	frequently	pos@0
+1527	frequently	pos@0
+2526	<Sp>	pos@10
+2528	asked	pos@11
+3490	asked	pos@11
+5256	<Sp>	pos@16
+5260	question	pos@17
+5373	question	pos@17
+5569	<Sp>	pos@25
+5571	NFF	pos@26
+7388	NFF	pos@26
+7391	<Entr>	pos@29
+[#]frequently asked question NFF
+[#]the high waves will swamp us
+0	the	pos@0
+926	the	pos@0
+1723	<Sp>	pos@3
+1726	high	pos@4
+3270	high	pos@4
+5017	<Sp>	pos@8
+5022	washed	pos@9
+8096	washed	pos@9
+8098	<Sp>	pos@15
+9704	will	pos@16
+11500	will	pos@16
+12966	<Sp>	pos@20
+12979	swamp	pos@21
+14499	swamp	pos@21
+14732	<Sp>	pos@26
+14733	us	pos@27
+15731	us	pos@27
+15737	<Entr>	pos@29
+[#]the high washed will swamp us
+[#]faster than a speeding bullet
+0	faster	pos@0
+1084	faster	pos@0
+1964	<Sp>	pos@6
+1976	than	pos@7
+3371	than	pos@7
+3373	<Sp>	pos@11
+3410	a	pos@12
+4009	a	pos@12
+6105	<Sp>	pos@13
+6107	spring	pos@14
+7283	spring	pos@14
+8579	<Sp>	pos@20
+8582	bullet	pos@21
+9464	bullet	pos@21
+9467	<Entr>	pos@27
+[#]faster than a spring bullet
+[#]a coupon for a free sample
+0	a	pos@0
+1289	a	pos@0
+2611	<Sp>	pos@1
+2613	cotton	pos@2
+5381	coupon	pos@2
+7207	<Sp>	pos@8
+7221	for	pos@9
+8088	for	pos@9
+8092	<Sp>	pos@12
+8110	a	pos@13
+8987	a	pos@13
+9402	<Sp>	pos@14
+9404	free	pos@15
+10187	free	pos@15
+11810	<Sp>	pos@19
+11812	sample	pos@20
+12581	sample	pos@20
+12592	<Entr>	pos@26
+[#]a coupon for a free sample
+[#]the price of gas is high
+0	the	pos@0
+862	the	pos@0
+1986	<Sp>	pos@3
+1989	prince	pos@4
+3076	prince	pos@4
+3350	<Sp>	pos@10
+3352	of	pos@11
+4500	of	pos@11
+5107	<Sp>	pos@13
+5109	grass	pos@14
+6451	gas	pos@14
+7634	<Sp>	pos@17
+7636	is	pos@18
+8293	is	pos@18
+8869	<Sp>	pos@20
+8884	high	pos@21
+9539	high	pos@21
+9542	<Entr>	pos@25
+[#]the prince of gas is high
+[#]we missed your birthday
+0	we	pos@0
+943	we	pos@0
+3003	<Sp>	pos@2
+3018	merited	pos@3
+5115	merited	pos@3
+5117	<Sp>	pos@10
+6893	your	pos@11
+7901	your	pos@11
+10248	<Sp>	pos@15
+10250	birthday	pos@16
+11155	birthday	pos@16
+11159	<Entr>	pos@24
+[#]we merited your birthday
+[#]it is difficult to concentrate
+0	it	pos@0
+643	it	pos@0
+889	<Sp>	pos@2
+891	is	pos@3
+2275	is	pos@3
+6113	<Sp>	pos@5
+6115	difficult	pos@6
+10995	difficult	pos@6
+10996	<Sp>	pos@15
+11855	to	pos@16
+13022	to	pos@16
+16654	<Sp>	pos@18
+16656	concentrate	pos@19
+17547	concentrate	pos@19
+17552	<Entr>	pos@30
+[#]it is difficult to concentrate
+[#]a correction had to be published
+0	a	pos@0
+888	a	pos@0
+3506	<Sp>	pos@1
+3508	correction	pos@2
+4904	correction	pos@2
+5380	<Sp>	pos@12
+5383	had	pos@13
+6123	had	pos@13
+6354	<Sp>	pos@16
+6357	to	pos@17
+7118	to	pos@17
+7330	<Sp>	pos@19
+7333	be	pos@20
+8699	be	pos@20
+12139	<Sp>	pos@22
+12141	published	pos@23
+13086	published	pos@23
+13091	<Entr>	pos@32
+[#]a correction had to be published
+[#]he cooled off after she left
+0	hi	pos@0
+1985	<Bksp>	pos@0
+2235	e	pos@0
+3318	<Bksp>	pos@0
+4360	he	pos@0
+5902	he	pos@0
+7182	<Sp>	pos@2
+7184	cooled	pos@3
+8178	cooled	pos@3
+8497	<Sp>	pos@9
+8512	of	pos@10
+9727	of	pos@10
+10697	<Sp>	pos@12
+10699	after	pos@13
+12181	after	pos@13
+12866	<Sp>	pos@18
+12868	she	pos@19
+14296	she	pos@19
+14973	<Sp>	pos@22
+14998	left	pos@23
+16115	left	pos@23
+16118	<Entr>	pos@27
+[#]he cooled of after she left
+[#]this is a very good idea
+0	this	pos@0
+861	this	pos@0
+1149	<Sp>	pos@4
+1152	is	pos@5
+1627	is	pos@5
+1629	<Sp>	pos@7
+1657	a	pos@8
+2722	a	pos@8
+3410	<Sp>	pos@9
+3412	very	pos@10
+4557	very	pos@10
+5254	<Sp>	pos@14
+5258	good	pos@15
+5966	good	pos@15
+6847	<Sp>	pos@19
+6851	idea	pos@20
+7694	idea	pos@20
+7698	<Entr>	pos@24
+[#]this is a very good idea
+[#]never mix religion and politics
+0	never	pos@0
+1795	never	pos@0
+2558	<Sp>	pos@5
+2576	mix	pos@6
+3913	mix	pos@6
+6817	<Sp>	pos@9
+6831	religion	pos@10
+8863	religion	pos@10
+9430	<Sp>	pos@18
+9433	and	pos@19
+10573	and	pos@19
+12731	<Sp>	pos@22
+12733	politics	pos@23
+13952	politics	pos@23
+13955	<Entr>	pos@31
+[#]never mix religion and politics
+[#]a little encouragement is needed
+0	a	pos@0
+727	a	pos@0
+1905	<Sp>	pos@1
+1907	little	pos@2
+3540	little	pos@2
+8944	<Sp>	pos@8
+8947	encouragement	pos@9
+12067	encouragement	pos@9
+12307	<Sp>	pos@22
+12309	is	pos@23
+13139	is	pos@23
+13942	<Sp>	pos@25
+13945	needed	pos@26
+14993	needed	pos@26
+14996	<Entr>	pos@32
+[#]a little encouragement is needed
+[#]i will meet you at noon
+0	i	pos@0
+123	i	pos@0
+935	I	pos@0
+1577	<Sp>	pos@1
+1581	will	pos@2
+2720	will	pos@2
+3396	<Sp>	pos@6
+3400	meet	pos@7
+4368	meet	pos@7
+4767	<Sp>	pos@11
+4770	you	pos@12
+5647	you	pos@12
+5858	<Sp>	pos@15
+5860	at	pos@16
+6801	at	pos@16
+7222	<Sp>	pos@18
+7233	non	pos@19
+7776	non	pos@19
+7781	<Entr>	pos@22
+[#]I will meet you at non
+[#]life is but a dream
+0	me	pos@0
+2032	me	pos@0
+2035	<Sp>	pos@2
+3872	<Bksp>	pos@2
+4078	m	pos@0
+4370	<Bksp>	pos@0
+6275	life	pos@0
+7232	life	pos@0
+7525	<Sp>	pos@4
+7527	is	pos@5
+8370	is	pos@5
+8894	<Sp>	pos@7
+8898	but	pos@8
+9866	but	pos@8
+9868	<Sp>	pos@11
+9897	a	pos@12
+10682	a	pos@12
+11826	<Sp>	pos@13
+11828	dream	pos@14
+13002	dream	pos@14
+13005	<Entr>	pos@19
+[#]life is but a dream
+[#]win first prize in the contest
+0	win	pos@0
+1508	win	pos@0
+2728	<Sp>	pos@3
+2731	first	pos@4
+3598	first	pos@4
+5584	<Sp>	pos@9
+5591	prize	pos@10
+6624	prize	pos@10
+6739	<Sp>	pos@15
+6742	in	pos@16
+8122	in	pos@16
+8446	<Sp>	pos@18
+8448	the	pos@19
+9369	the	pos@19
+11009	<Sp>	pos@22
+11011	contest	pos@23
+11737	contest	pos@23
+11739	<Entr>	pos@30
+[#]win first prize in the contest
+[#]santa claus got stuck
+0	Santa	pos@0
+1052	Santa	pos@0
+3116	<Sp>	pos@5
+3130	clause	pos@6
+4960	clause	pos@6
+4967	<Sp>	pos@12
+6002	got	pos@13
+7028	got	pos@13
+7030	<Sp>	pos@16
+8906	such	pos@17
+9664	such	pos@17
+9667	<Entr>	pos@21
+[#]Santa clause got such
+[#]the cotton is high
+0	the	pos@0
+785	the	pos@0
+2077	<Sp>	pos@3
+2080	cotton	pos@4
+3503	cotton	pos@4
+3706	<Sp>	pos@10
+3710	is	pos@11
+4675	is	pos@11
+5838	<Sp>	pos@13
+5853	Josh	pos@14
+8414	Josh	pos@14
+8416	<Entr>	pos@18
+[#]the cotton is Josh
+[#]my fingers are very cold
+0	my	pos@0
+1907	my	pos@0
+3532	<Sp>	pos@2
+3534	fingers	pos@3
+4612	fingers	pos@3
+4973	<Sp>	pos@10
+4976	are	pos@11
+5893	are	pos@11
+6503	<Sp>	pos@14
+6506	very	pos@15
+7270	very	pos@15
+8206	<Sp>	pos@19
+8207	cold	pos@20
+9173	cold	pos@20
+9180	<Entr>	pos@24
+[#]my fingers are very cold
+[#]Log closed: Mon May 13 14:31:55 GMT+12:00 2019

@@ -1,0 +1,345 @@
+[#]Log opened: Mon May 13 14:36:36 GMT+12:00 2019
+[#]life is but a dream
+0	life	pos@0
+720	life	pos@0
+920	<Sp>	pos@4
+925	is	pos@5
+1668	is	pos@5
+2169	<Sp>	pos@7
+2171	but	pos@8
+3031	but	pos@8
+3033	<Sp>	pos@11
+3059	a	pos@12
+4182	a	pos@12
+5017	<Sp>	pos@13
+5022	dream	pos@14
+5848	dream	pos@14
+5851	<Entr>	pos@19
+[#]life is but a dream
+[#]this equation is too complicated
+0	this	pos@0
+965	this	pos@0
+2949	<Sp>	pos@4
+2964	equation	pos@5
+4065	equation	pos@5
+4293	<Sp>	pos@13
+4308	is	pos@14
+4903	is	pos@14
+5100	<Sp>	pos@16
+5103	to	pos@17
+5884	to	pos@17
+8837	<Sp>	pos@19
+8849	complicated	pos@20
+9515	complicated	pos@20
+9518	<Entr>	pos@31
+[#]this equation is to complicated
+[#]are you sure you want this
+0	are	pos@0
+928	are	pos@0
+1239	<Sp>	pos@3
+1241	you	pos@4
+2066	you	pos@4
+2471	<Sp>	pos@7
+2474	due	pos@8
+4112	due	pos@8
+4415	<Sp>	pos@11
+4418	you	pos@12
+5407	you	pos@12
+6203	<Sp>	pos@15
+6205	wasn't	pos@16
+6827	wasn't	pos@16
+6993	<Sp>	pos@22
+6999	to	pos@23
+7845	to	pos@23
+8020	<Sp>	pos@25
+8022	do	pos@26
+8709	do	pos@26
+9212	<Sp>	pos@28
+9219	this	pos@29
+10093	this	pos@29
+10100	<Entr>	pos@33
+[#]are you due you wasn't to do this
+[#]do not say anything
+0	do	pos@0
+716	do	pos@0
+1151	<Sp>	pos@2
+1153	not	pos@3
+2266	not	pos@3
+2582	<Sp>	pos@6
+2585	say	pos@7
+3689	say	pos@7
+5754	<Sp>	pos@10
+5756	anything	pos@11
+6379	anything	pos@11
+6381	<Entr>	pos@19
+[#]do not say anything
+[#]the children are playing
+0	the	pos@0
+737	the	pos@0
+3108	<Sp>	pos@3
+3110	children	pos@4
+3902	children	pos@4
+4222	<Sp>	pos@12
+4224	are	pos@13
+5662	are	pos@13
+7769	<Sp>	pos@16
+7772	plastering	pos@17
+10183	plastering	pos@17
+10187	<Entr>	pos@27
+[#]the children are plastering
+[#]beautiful paintings in the gallery
+0	beautiful	pos@0
+1297	beautiful	pos@0
+3939	<Sp>	pos@9
+3941	painting	pos@10
+8642	painting	pos@10
+8644	<Sp>	pos@18
+11020	in	pos@19
+11365	in	pos@19
+11782	<Sp>	pos@21
+11784	the	pos@22
+13231	the	pos@22
+14553	<Sp>	pos@25
+14555	gallery	pos@26
+15281	gallery	pos@26
+15285	<Entr>	pos@33
+[#]beautiful painting in the gallery
+[#]the second largest country
+0	the	pos@0
+926	the	pos@0
+2656	<Sp>	pos@3
+2657	second	pos@4
+3616	second	pos@4
+5790	<Sp>	pos@10
+5793	largest	pos@11
+6672	largest	pos@11
+8376	<Sp>	pos@18
+8378	country	pos@19
+9233	country	pos@19
+9236	<Entr>	pos@26
+[#]the second largest country
+[#]we better investigate this
+0	we	pos@0
+943	we	pos@0
+1839	<Sp>	pos@2
+1843	better	pos@3
+2651	better	pos@3
+6220	<Sp>	pos@9
+6233	investigate	pos@10
+6957	investigate	pos@10
+7636	<Sp>	pos@21
+7638	this	pos@22
+8624	this	pos@22
+8627	<Entr>	pos@26
+[#]we better investigate this
+[#]construction makes traveling difficult
+0	construction	pos@0
+1111	construction	pos@0
+2645	<Sp>	pos@12
+2648	makes	pos@13
+5510	makes	pos@13
+7683	<Sp>	pos@18
+7697	traveling	pos@19
+11831	traveling	pos@19
+14232	<Sp>	pos@28
+14236	difficult	pos@29
+15033	difficult	pos@29
+15037	<Entr>	pos@38
+[#]construction makes traveling difficult
+[#]see you later alligator
+0	see	pos@0
+931	see	pos@0
+1253	<Sp>	pos@3
+1267	you	pos@4
+2099	you	pos@4
+3013	<Sp>	pos@7
+3016	later	pos@8
+4157	later	pos@8
+6989	<Sp>	pos@13
+7012	slingshot	pos@14
+7612	slingshot	pos@14
+7614	<Entr>	pos@23
+[#]see you later slingshot
+[#]acutely aware of her good looks
+0	acutely	pos@0
+1165	acutely	pos@0
+2191	<Sp>	pos@7
+2194	aware	pos@8
+3160	aware	pos@8
+3459	<Sp>	pos@13
+3460	of	pos@14
+4030	of	pos@14
+4526	<Sp>	pos@16
+4528	her	pos@17
+5488	her	pos@17
+6205	<Sp>	pos@20
+6212	good	pos@21
+6895	good	pos@21
+8189	<Sp>	pos@25
+8192	loss	pos@26
+9976	loss	pos@26
+9981	<Entr>	pos@30
+[#]acutely aware of her good loss
+[#]the bathroom is good for reading
+0	the	pos@0
+1374	the	pos@0
+4274	<Sp>	pos@3
+4276	Hashim	pos@4
+6436	Hashim	pos@4
+6711	<Sp>	pos@10
+6713	is	pos@11
+8396	is	pos@11
+9601	<Sp>	pos@13
+9605	good	pos@14
+11544	good	pos@14
+12104	<Sp>	pos@18
+12107	for	pos@19
+14073	for	pos@19
+16076	<Sp>	pos@22
+16079	reading	pos@23
+16990	reading	pos@23
+16994	<Entr>	pos@30
+[#]the Hashim is good for reading
+[#]no kissing in the library
+0	no	pos@0
+1574	no	pos@0
+3500	<Sp>	pos@2
+3504	kissing	pos@3
+4612	kissing	pos@3
+4823	<Sp>	pos@10
+4825	in	pos@11
+5545	in	pos@11
+5949	<Sp>	pos@13
+5952	the	pos@14
+6859	the	pos@14
+8799	<Sp>	pos@17
+8801	library	pos@18
+9494	library	pos@18
+9497	<Entr>	pos@25
+[#]no kissing in the library
+[#]this person is a disaster
+0	this	pos@0
+1081	this	pos@0
+2452	<Sp>	pos@4
+2454	person	pos@5
+2998	person	pos@5
+3239	<Sp>	pos@11
+3242	is	pos@12
+3692	is	pos@12
+3695	<Sp>	pos@14
+3715	a	pos@15
+4749	a	pos@15
+7639	<Sp>	pos@16
+7641	disaster	pos@17
+8375	disaster	pos@17
+8377	<Entr>	pos@25
+[#]this person is a disaster
+[#]faster than a speeding bullet
+0	faster	pos@0
+783	faster	pos@0
+1806	<Sp>	pos@6
+1809	than	pos@7
+3604	than	pos@7
+3607	<Sp>	pos@11
+3626	a	pos@12
+4026	a	pos@12
+5966	<Sp>	pos@13
+5970	speeding	pos@14
+7458	speeding	pos@14
+8774	<Sp>	pos@22
+8776	bullet	pos@23
+9387	bullet	pos@23
+9390	<Entr>	pos@29
+[#]faster than a speeding bullet
+[#]players must know all the rules
+0	plates	pos@0
+1193	plates	pos@0
+2136	<Sp>	pos@6
+2139	must	pos@7
+3001	must	pos@7
+3891	<Sp>	pos@11
+3893	know	pos@12
+5071	know	pos@12
+5455	<Sp>	pos@16
+5458	all	pos@17
+6177	all	pos@17
+6482	<Sp>	pos@20
+6484	the	pos@21
+7854	the	pos@21
+9052	<Sp>	pos@24
+9058	rules	pos@25
+10046	rules	pos@25
+10050	<Entr>	pos@30
+[#]plates must know all the rules
+[#]the dog buried the bone
+0	the	pos@0
+1702	the	pos@0
+2904	<Sp>	pos@3
+2906	Dodds	pos@4
+4749	Dodds	pos@4
+4752	<Sp>	pos@9
+7041	buried	pos@10
+8016	buried	pos@10
+8365	<Sp>	pos@16
+8369	the	pos@17
+9216	the	pos@17
+9977	<Sp>	pos@20
+9979	bone	pos@21
+10638	bone	pos@21
+10642	<Entr>	pos@25
+[#]the Dodds buried the bone
+[#]you are a capitalist pig
+0	you	pos@0
+720	you	pos@0
+1025	<Sp>	pos@3
+1028	are	pos@4
+1440	are	pos@4
+1442	<Sp>	pos@7
+1454	a	pos@8
+2918	a	pos@8
+6707	<Sp>	pos@9
+6709	capitalist	pos@10
+7617	capitalist	pos@10
+8287	<Sp>	pos@20
+8291	pig	pos@21
+8959	pig	pos@21
+8962	<Entr>	pos@24
+[#]you are a capitalist pig
+[#]the water was monitored daily
+0	the	pos@0
+1052	the	pos@0
+1761	<Sp>	pos@3
+1765	water	pos@4
+2904	water	pos@4
+3194	<Sp>	pos@9
+3195	was	pos@10
+4121	was	pos@10
+7102	<Sp>	pos@13
+7104	monitored	pos@14
+8519	monitored	pos@14
+9500	<Sp>	pos@23
+9502	daily	pos@24
+10190	daily	pos@24
+10193	<Entr>	pos@29
+[#]the water was monitored daily
+[#]a very traditional way to dress
+0	a	pos@0
+700	a	pos@0
+1151	<Sp>	pos@1
+1153	very	pos@2
+2443	very	pos@2
+6150	<Sp>	pos@6
+6162	traditional	pos@7
+7425	traditional	pos@7
+7811	<Sp>	pos@18
+7823	east	pos@19
+8418	east	pos@19
+8588	<Sp>	pos@23
+8591	to	pos@24
+9747	to	pos@24
+10344	<Sp>	pos@26
+10348	dress	pos@27
+11007	dress	pos@27
+11013	<Entr>	pos@32
+[#]a very traditional east to dress
+[#]Log closed: Mon May 13 14:40:59 GMT+12:00 2019

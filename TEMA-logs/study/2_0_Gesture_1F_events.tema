@@ -1,0 +1,413 @@
+[#]Log opened: Tue May 14 11:47:27 GMT+12:00 2019
+[#]it is very windy today
+0	it	pos@0
+248	it	pos@0
+477	<Sp>	pos@2
+478	is	pos@3
+1118	is	pos@3
+1615	<Sp>	pos@5
+1630	very	pos@6
+2968	very	pos@6
+3820	<Sp>	pos@10
+3844	windy	pos@11
+4265	windy	pos@11
+5151	<Sp>	pos@16
+5153	Rideau	pos@17
+7135	<Bksp>	pos@17
+9003	today	pos@17
+9730	today	pos@17
+9734	<Entr>	pos@22
+[#]it is very windy today
+[#]did you see that spectacular explosion
+0	did	pos@0
+656	did	pos@0
+1025	<Sp>	pos@3
+1027	you	pos@4
+1684	you	pos@4
+1832	<Sp>	pos@7
+1834	see	pos@8
+2364	see	pos@8
+2902	<Sp>	pos@11
+2904	that	pos@12
+4440	that	pos@12
+4584	<Sp>	pos@16
+4587	so	pos@17
+4688	so	pos@17
+5124	<Sp>	pos@19
+5127	poor	pos@20
+5887	<Bksp>	pos@20
+6081	<Bksp>	pos@19
+6259	s	pos@17
+6704	<Bksp>	pos@17
+10519	spectacle	pos@17
+12682	<Bksp>	pos@17
+23561	spectacled	pos@17
+25655	spectacular	pos@17
+30485	<Sp>	pos@28
+30489	exploitation	pos@29
+32101	exploitation	pos@29
+32104	<Entr>	pos@41
+[#]did you see that spectacular exploitation
+[#]for your information only
+0	for	pos@0
+986	for	pos@0
+1517	<Sp>	pos@3
+1530	your	pos@4
+2472	your	pos@4
+4945	<Sp>	pos@8
+4946	information	pos@9
+6585	information	pos@9
+7143	<Sp>	pos@20
+7145	only	pos@21
+7924	only	pos@21
+7926	<Entr>	pos@25
+[#]for your information only
+[#]it is very windy today
+0	it	pos@0
+385	it	pos@0
+597	<Sp>	pos@2
+599	is	pos@3
+1967	is	pos@3
+2420	<Sp>	pos@5
+2423	very	pos@6
+3547	very	pos@6
+4328	<Sp>	pos@10
+4330	windy	pos@11
+4852	windy	pos@11
+5951	<Sp>	pos@16
+5953	today	pos@17
+6920	today	pos@17
+6922	<Entr>	pos@22
+[#]it is very windy today
+[#]toss the ball around
+0	toss	pos@0
+685	toss	pos@0
+992	<Sp>	pos@4
+994	the	pos@5
+1828	the	pos@5
+2388	<Sp>	pos@8
+2392	ball	pos@9
+3535	ball	pos@9
+4413	<Sp>	pos@13
+4415	around	pos@14
+5269	around	pos@14
+5274	<Entr>	pos@20
+[#]toss the ball around
+[#]the high waves will swamp us
+0	the	pos@0
+862	the	pos@0
+1441	<Sp>	pos@3
+1453	high	pos@4
+2822	high	pos@4
+3672	<Sp>	pos@8
+3676	wants	pos@9
+5208	waves	pos@9
+6498	<Sp>	pos@14
+6500	will	pos@15
+7502	will	pos@15
+8273	<Sp>	pos@19
+8277	swamp	pos@20
+9225	swamp	pos@20
+9450	<Sp>	pos@25
+9453	us	pos@26
+9864	us	pos@26
+9868	<Entr>	pos@28
+[#]the high waves will swamp us
+[#]tickets are very expensive
+0	tickets	pos@0
+497	tickets	pos@0
+868	<Sp>	pos@7
+872	are	pos@8
+1858	are	pos@8
+2436	<Sp>	pos@11
+2438	very	pos@12
+3203	very	pos@12
+5101	<Sp>	pos@16
+5103	expensive	pos@17
+6314	expensive	pos@17
+6316	<Entr>	pos@26
+[#]tickets are very expensive
+[#]lie detector tests never work
+0	lie	pos@0
+1054	lie	pos@0
+2413	<Sp>	pos@3
+2416	detector	pos@4
+3992	detector	pos@4
+4721	<Sp>	pos@12
+4723	tests	pos@13
+5859	tests	pos@13
+6526	<Sp>	pos@18
+6529	never	pos@19
+7125	never	pos@19
+7724	<Sp>	pos@24
+7726	work	pos@25
+8708	work	pos@25
+8710	<Entr>	pos@29
+[#]lie detector tests never work
+[#]all good boys deserve fudge
+0	all	pos@0
+757	all	pos@0
+1229	<Sp>	pos@3
+1232	good	pos@4
+1725	good	pos@4
+2416	<Sp>	pos@8
+2419	good	pos@9
+3322	good	pos@9
+4518	<Sp>	pos@13
+4521	dragster	pos@14
+6850	deserve	pos@14
+9210	<Sp>	pos@21
+9212	fudge	pos@22
+10029	fudge	pos@22
+10034	<Entr>	pos@27
+[#]all good good deserve fudge
+[#]people blow their horn a lot
+0	people	pos@0
+1028	people	pos@0
+1645	<Sp>	pos@6
+1649	blood	pos@7
+2247	blood	pos@7
+2895	<Sp>	pos@12
+2897	their	pos@13
+4148	their	pos@13
+4707	<Sp>	pos@18
+4709	horn	pos@19
+5184	horn	pos@19
+5189	<Sp>	pos@23
+5212	a	pos@24
+5996	a	pos@24
+6307	<Sp>	pos@25
+6312	lot	pos@26
+6841	lot	pos@26
+6844	<Entr>	pos@29
+[#]people blood their horn a lot
+[#]rain rain go away
+0	rain	pos@0
+586	rain	pos@0
+1097	<Sp>	pos@4
+1099	train	pos@5
+2633	rain	pos@5
+3723	<Sp>	pos@9
+3725	go	pos@10
+4080	go	pos@10
+4554	<Sp>	pos@12
+4557	away	pos@13
+5347	away	pos@13
+5350	<Entr>	pos@17
+[#]rain rain go away
+[#]my favorite web browser
+0	my	pos@0
+673	my	pos@0
+1887	<Sp>	pos@2
+1889	favourite	pos@3
+2746	favourite	pos@3
+2974	<Sp>	pos@12
+2976	etc	pos@13
+4587	<Bksp>	pos@13
+5726	web	pos@13
+6904	web	pos@13
+7957	<Sp>	pos@16
+7959	browser	pos@17
+8688	browser	pos@17
+8692	<Entr>	pos@24
+[#]my favourite web browser
+[#]i can see the rings on saturn
+0	i	pos@0
+126	i	pos@0
+834	I	pos@0
+1149	<Sp>	pos@1
+1152	can	pos@2
+1658	can	pos@2
+1837	<Sp>	pos@5
+1839	see	pos@6
+2708	see	pos@6
+2711	<Sp>	pos@9
+2744	e	pos@10
+2837	e	pos@10
+3928	<Bksp>	pos@10
+4605	the	pos@10
+5545	the	pos@10
+6203	<Sp>	pos@13
+6206	rings	pos@14
+6825	rings	pos@14
+6993	<Sp>	pos@19
+6995	on	pos@20
+7900	on	pos@20
+8669	<Sp>	pos@22
+8681	darter	pos@23
+9683	<Bksp>	pos@23
+9864	<Bksp>	pos@22
+10551	on	pos@20
+10554	<Sp>	pos@22
+12702	Saturn	pos@23
+13874	Saturn	pos@23
+13878	<Entr>	pos@29
+[#]I can see the rings on Saturn
+[#]historic meeting without a result
+0	historic	pos@0
+1498	historic	pos@0
+2604	<Sp>	pos@8
+2607	meeting	pos@9
+4599	meeting	pos@9
+5590	<Sp>	pos@16
+5594	eighth	pos@17
+7015	<Bksp>	pos@17
+9131	without	pos@17
+10089	without	pos@17
+10091	<Sp>	pos@24
+10119	a	pos@25
+10747	a	pos@25
+11548	<Sp>	pos@26
+11550	result	pos@27
+12230	result	pos@27
+12234	<Entr>	pos@33
+[#]historic meeting without a result
+[#]exceed the maximum speed limit
+0	exceed	pos@0
+573	exceed	pos@0
+880	<Sp>	pos@6
+882	the	pos@7
+1522	the	pos@7
+2694	<Sp>	pos@10
+2696	maximum	pos@11
+3645	maximum	pos@11
+4000	<Sp>	pos@18
+4003	stop	pos@19
+4266	stop	pos@19
+4268	<Sp>	pos@23
+4281	p	pos@24
+4770	pl	pos@24
+4932	p	pos@24
+5084	<Bksp>	pos@24
+5249	<Bksp>	pos@23
+5402	sto	pos@19
+5556	st	pos@19
+5706	s	pos@19
+5968	<Bksp>	pos@19
+7943	speed	pos@19
+8701	speed	pos@19
+9281	<Sp>	pos@24
+9286	limit	pos@25
+9942	limit	pos@25
+9944	<Entr>	pos@30
+[#]exceed the maximum speed limit
+[#]acutely aware of her good looks
+0	acutely	pos@0
+1632	acutely	pos@0
+2500	<Sp>	pos@7
+2503	aware	pos@8
+3532	aware	pos@8
+3698	<Sp>	pos@13
+3700	of	pos@14
+4322	of	pos@14
+4598	<Sp>	pos@16
+4600	get	pos@17
+5817	her	pos@17
+7039	<Sp>	pos@20
+7041	good	pos@21
+7571	good	pos@21
+8127	<Sp>	pos@25
+8130	log	pos@26
+9034	<Bksp>	pos@26
+10704	looks	pos@26
+11412	looks	pos@26
+11414	<Entr>	pos@31
+[#]acutely aware of her good looks
+[#]healthy food is good for you
+0	healthy	pos@0
+1041	healthy	pos@0
+1477	<Sp>	pos@7
+1480	food	pos@8
+1863	food	pos@8
+2062	<Sp>	pos@12
+2064	is	pos@13
+2513	is	pos@13
+2980	<Sp>	pos@15
+2982	for	pos@16
+4649	<Bksp>	pos@16
+5866	good	pos@16
+7333	good	pos@16
+7692	<Sp>	pos@20
+7695	for	pos@21
+8739	for	pos@21
+9001	<Sp>	pos@24
+9003	you	pos@25
+9591	you	pos@25
+9593	<Entr>	pos@28
+[#]healthy food is good for you
+[#]never too rich and never too thin
+0	never	pos@0
+406	never	pos@0
+589	<Sp>	pos@5
+592	to	pos@6
+1229	to	pos@6
+1703	<Sp>	pos@8
+1705	rich	pos@9
+2085	rich	pos@9
+2474	<Sp>	pos@13
+2476	and	pos@14
+2874	and	pos@14
+3722	<Sp>	pos@17
+3724	never	pos@18
+4709	never	pos@18
+4878	<Sp>	pos@23
+4880	to	pos@24
+5372	to	pos@24
+5863	<Sp>	pos@26
+5865	thing	pos@27
+6539	<Bksp>	pos@27
+8082	thin	pos@27
+8913	thin	pos@27
+8916	<Entr>	pos@31
+[#]never to rich and never to thin
+[#]the most beautiful sunset
+0	the	pos@0
+536	the	pos@0
+1002	<Sp>	pos@3
+1004	most	pos@4
+1636	most	pos@4
+3294	<Sp>	pos@8
+3296	beautiful	pos@9
+4500	beautiful	pos@9
+5259	<Sp>	pos@18
+5261	subset	pos@19
+7564	sunset	pos@19
+8241	<Entr>	pos@25
+[#]the most beautiful sunset
+[#]we dine out on the weekends
+0	we	pos@0
+708	we	pos@0
+1151	<Sp>	pos@2
+1154	fine	pos@3
+1564	fine	pos@3
+1793	<Sp>	pos@7
+1796	or	pos@8
+2244	or	pos@8
+2488	<Sp>	pos@10
+2490	of	pos@11
+3106	<Bksp>	pos@11
+3258	<Bksp>	pos@10
+3492	o	pos@8
+3937	<Bksp>	pos@8
+4795	out	pos@8
+5388	out	pos@8
+5601	<Sp>	pos@11
+5602	on	pos@12
+5927	on	pos@12
+6266	<Sp>	pos@14
+6269	the	pos@15
+6924	the	pos@15
+7906	<Sp>	pos@18
+7909	when's	pos@19
+9886	<Bksp>	pos@19
+12223	weekend	pos@19
+13776	weekend	pos@19
+13778	<Sp>	pos@26
+13788	s	pos@27
+14535	<Bksp>	pos@27
+14674	<Bksp>	pos@26
+15436	weekends	pos@19
+15877	weekends	pos@19
+15881	<Entr>	pos@27
+[#]we fine out on the weekends
+[#]Log closed: Tue May 14 11:51:48 GMT+12:00 2019
