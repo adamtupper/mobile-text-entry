@@ -1,0 +1,376 @@
+[#]Log opened: Mon May 20 14:18:22 GMT+12:00 2019
+[#]do you prefer a window seat
+0	dou	pos@0
+610	dou	pos@0
+1013	<Sp>	pos@3
+1015	you	pos@4
+3104	you	pos@4
+4283	<Sp>	pos@7
+4285	prefer	pos@8
+5687	prefer	pos@8
+5689	<Sp>	pos@14
+5710	a	pos@15
+6364	a	pos@15
+7828	<Sp>	pos@16
+7830	window	pos@17
+8892	window	pos@17
+9602	<Sp>	pos@23
+9610	seat	pos@24
+10543	seat	pos@24
+10548	<Entr>	pos@28
+[#]dou you prefer a window seat
+[#]this system of taxation
+0	this	pos@0
+1097	this	pos@0
+2687	<Sp>	pos@4
+2691	system	pos@5
+3753	system	pos@5
+3964	<Sp>	pos@11
+3965	of	pos@12
+4954	of	pos@12
+7015	<Sp>	pos@14
+7016	taxation	pos@15
+7809	taxation	pos@15
+7812	<Entr>	pos@23
+[#]this system of taxation
+[#]my watch fell in the water
+0	my	pos@0
+960	my	pos@0
+2058	<Sp>	pos@2
+2060	watch	pos@3
+3095	watch	pos@3
+3829	<Sp>	pos@8
+3831	fell	pos@9
+4989	fell	pos@9
+5263	<Sp>	pos@13
+5265	in	pos@14
+5701	in	pos@14
+6183	<Sp>	pos@16
+6185	the	pos@17
+7267	the	pos@17
+8212	<Sp>	pos@20
+8216	water	pos@21
+9235	water	pos@21
+9238	<Entr>	pos@26
+[#]my watch fell in the water
+[#]that is a very odd question
+0	that	pos@0
+924	that	pos@0
+1169	<Sp>	pos@4
+1172	is	pos@5
+1825	is	pos@5
+1943	<Sp>	pos@7
+1957	as	pos@8
+3166	<Bksp>	pos@8
+4123	a	pos@8
+4843	a	pos@8
+5545	<Sp>	pos@9
+5549	very	pos@10
+6676	very	pos@10
+6983	<Sp>	pos@14
+6985	of	pos@15
+8830	odd	pos@15
+12640	<Sp>	pos@18
+12642	question	pos@19
+13419	question	pos@19
+13422	<Entr>	pos@27
+[#]that is a very odd question
+[#]i skimmed through your proposal
+0	i	pos@0
+127	i	pos@0
+1507	I	pos@0
+2970	<Sp>	pos@1
+2984	skimmed	pos@2
+3868	skimmed	pos@2
+5658	<Sp>	pos@9
+5660	through	pos@10
+7010	through	pos@10
+8058	<Sp>	pos@17
+8061	you	pos@18
+8918	<Bksp>	pos@18
+10512	your	pos@18
+11976	your	pos@18
+14417	<Sp>	pos@22
+14421	proposal	pos@23
+15273	proposal	pos@23
+15279	<Entr>	pos@31
+[#]I skimmed through your proposal
+[#]he underwent triple bypass surgery
+0	he	pos@0
+1181	he	pos@0
+3499	<Sp>	pos@2
+3513	underwent	pos@3
+5008	underwent	pos@3
+6236	<Sp>	pos@12
+6238	triple	pos@13
+7445	triple	pos@13
+8624	<Sp>	pos@19
+8629	bypass	pos@20
+9629	bypass	pos@20
+11319	<Sp>	pos@26
+11340	surgery	pos@27
+12689	surgery	pos@27
+12693	<Entr>	pos@34
+[#]he underwent triple bypass surgery
+[#]construction makes traveling difficult
+0	construction	pos@0
+1452	construction	pos@0
+2703	<Sp>	pos@12
+2723	makes	pos@13
+4254	makes	pos@13
+7391	<Sp>	pos@18
+7405	traveling	pos@19
+9580	traveling	pos@19
+12215	<Sp>	pos@28
+12218	difficult	pos@29
+14622	difficult	pos@29
+14624	<Entr>	pos@38
+[#]construction makes traveling difficult
+[#]bad for the environment
+0	bad	pos@0
+603	bad	pos@0
+1212	<Sp>	pos@3
+1214	for	pos@4
+1741	for	pos@4
+2381	<Sp>	pos@7
+2383	the	pos@8
+3148	the	pos@8
+7273	<Sp>	pos@11
+7277	environment	pos@12
+8613	environment	pos@12
+8617	<Entr>	pos@23
+[#]bad for the environment
+[#]i took the rover from the shop
+0	i	pos@0
+124	i	pos@0
+1193	I	pos@0
+1661	<Sp>	pos@1
+1663	took	pos@2
+2586	took	pos@2
+3067	<Sp>	pos@6
+3069	the	pos@7
+3977	the	pos@7
+5130	<Sp>	pos@10
+5132	rover	pos@11
+6316	rover	pos@11
+7136	<Sp>	pos@16
+7138	from	pos@17
+7630	from	pos@17
+8156	<Sp>	pos@21
+8158	the	pos@22
+9038	the	pos@22
+9632	<Sp>	pos@25
+9634	shop	pos@26
+10662	shop	pos@26
+10666	<Entr>	pos@30
+[#]I took the rover from the shop
+[#]a psychiatrist will help you
+0	a	pos@0
+1650	a	pos@0
+6258	<Sp>	pos@1
+6274	psychiatrist	pos@2
+8081	psychiatrist	pos@2
+8084	<Sp>	pos@14
+9878	will	pos@15
+10978	will	pos@15
+11825	<Sp>	pos@19
+11838	help	pos@20
+13274	help	pos@20
+13740	<Sp>	pos@24
+13743	you	pos@25
+14504	you	pos@25
+14508	<Entr>	pos@28
+[#]a psychiatrist will help you
+[#]i like to play tennis
+0	i	pos@0
+127	i	pos@0
+652	I	pos@0
+1375	<Sp>	pos@1
+1382	like	pos@2
+2726	like	pos@2
+2952	<Sp>	pos@6
+2954	to	pos@7
+3720	to	pos@7
+4493	<Sp>	pos@9
+4498	play	pos@10
+5382	play	pos@10
+6686	<Sp>	pos@14
+6694	tennis	pos@15
+7356	tennis	pos@15
+7359	<Entr>	pos@21
+[#]I like to play tennis
+[#]why do you ask silly questions
+0	why	pos@0
+576	why	pos@0
+894	<Sp>	pos@3
+896	do	pos@4
+1417	do	pos@4
+1800	<Sp>	pos@6
+1804	you	pos@7
+2990	you	pos@7
+3425	<Sp>	pos@10
+3429	ask	pos@11
+4604	ask	pos@11
+5422	<Sp>	pos@14
+5425	silky	pos@15
+7326	silly	pos@15
+10682	<Sp>	pos@20
+10684	questions	pos@21
+11394	questions	pos@21
+11398	<Entr>	pos@30
+[#]why do you ask silly questions
+[#]shivering is one way to keep warm
+0	shivering	pos@0
+1333	shivering	pos@0
+1609	<Sp>	pos@9
+1623	is	pos@10
+2556	is	pos@10
+3038	<Sp>	pos@12
+3041	one	pos@13
+3531	one	pos@13
+3980	<Sp>	pos@16
+3982	way	pos@17
+4733	way	pos@17
+4911	<Sp>	pos@20
+4914	to	pos@21
+5540	to	pos@21
+6311	<Sp>	pos@23
+6314	keep	pos@24
+7451	keep	pos@24
+8287	<Sp>	pos@28
+8290	warm	pos@29
+9319	warm	pos@29
+9324	<Entr>	pos@33
+[#]shivering is one way to keep warm
+[#]be discreet about your meeting
+0	be	pos@0
+1173	be	pos@0
+2846	<Sp>	pos@2
+2857	discreet	pos@3
+4053	discreet	pos@3
+5078	<Sp>	pos@11
+5081	about	pos@12
+5744	about	pos@12
+6468	<Sp>	pos@17
+6473	your	pos@18
+7025	your	pos@18
+8780	<Sp>	pos@22
+8782	meeting	pos@23
+9601	meeting	pos@23
+9604	<Entr>	pos@30
+[#]be discreet about your meeting
+[#]the largest of the five oceans
+0	the	pos@0
+1005	the	pos@0
+2716	<Sp>	pos@3
+2718	largest	pos@4
+3758	largest	pos@4
+4006	<Sp>	pos@11
+4009	of	pos@12
+4467	of	pos@12
+4984	<Sp>	pos@14
+4986	the	pos@15
+5939	the	pos@15
+6812	<Sp>	pos@18
+6814	five	pos@19
+7693	five	pos@19
+9342	<Sp>	pos@23
+9344	oceans	pos@24
+10089	oceans	pos@24
+10100	<Entr>	pos@30
+[#]the largest of the five oceans
+[#]if diplomacy does not work
+0	if	pos@0
+1085	if	pos@0
+3892	<Sp>	pos@2
+3895	diplomacy	pos@3
+5371	diplomacy	pos@3
+6239	<Sp>	pos@12
+6241	does	pos@13
+7380	does	pos@13
+7906	<Sp>	pos@17
+7909	not	pos@18
+9072	not	pos@18
+10257	<Sp>	pos@21
+10259	work	pos@22
+11027	work	pos@22
+11030	<Entr>	pos@26
+[#]if diplomacy does not work
+[#]i am going to a music lesson
+0	Iran	pos@0
+1393	<Bksp>	pos@0
+2113	i	pos@0
+2236	i	pos@0
+2834	I	pos@0
+2988	<Sp>	pos@1
+2991	an	pos@2
+4284	<Bksp>	pos@2
+5497	am	pos@2
+6958	am	pos@2
+7918	<Sp>	pos@4
+7929	going	pos@5
+8951	going	pos@5
+9209	<Sp>	pos@10
+9212	to	pos@11
+9689	to	pos@11
+9692	<Sp>	pos@13
+9717	a	pos@14
+9824	a	pos@14
+10470	a	pos@14
+11720	<Sp>	pos@15
+11722	music	pos@16
+13014	music	pos@16
+14371	<Sp>	pos@21
+14374	lesson	pos@22
+15108	lesson	pos@22
+15112	<Entr>	pos@28
+[#]I am going to a music lesson
+[#]very reluctant to enter
+0	very	pos@0
+1100	very	pos@0
+3571	<Sp>	pos@4
+3574	reluctant	pos@5
+4741	reluctant	pos@5
+4969	<Sp>	pos@14
+4971	to	pos@15
+5608	to	pos@15
+6900	<Sp>	pos@17
+6905	enter	pos@18
+8264	enter	pos@18
+8267	<Entr>	pos@23
+[#]very reluctant to enter
+[#]fine but only in moderation
+0	fine	pos@0
+1441	fine	pos@0
+1795	<Sp>	pos@4
+1797	but	pos@5
+2660	but	pos@5
+3498	<Sp>	pos@8
+3501	only	pos@9
+4463	only	pos@9
+4630	<Sp>	pos@13
+4634	in	pos@14
+5190	in	pos@14
+7721	<Sp>	pos@16
+7723	moderation	pos@17
+8590	moderation	pos@17
+8593	<Entr>	pos@27
+[#]fine but only in moderation
+[#]quick there is someone knocking
+0	quick	pos@0
+1044	quick	pos@0
+1851	<Sp>	pos@5
+1853	there	pos@6
+2980	there	pos@6
+3240	<Sp>	pos@11
+3243	is	pos@12
+4229	is	pos@12
+5922	<Sp>	pos@14
+5925	someone	pos@15
+7123	someone	pos@15
+9157	<Sp>	pos@22
+9159	knocking	pos@23
+9949	knocking	pos@23
+9952	<Entr>	pos@31
+[#]quick there is someone knocking
+[#]Log closed: Mon May 20 14:22:44 GMT+12:00 2019

@@ -1,0 +1,378 @@
+[#]Log opened: Mon May 20 14:05:53 GMT+12:00 2019
+[#]the library is closed today
+0	the	pos@0
+1039	the	pos@0
+3350	<Sp>	pos@3
+3355	library	pos@4
+5128	library	pos@4
+5765	<Sp>	pos@11
+5768	is	pos@12
+6597	is	pos@12
+8415	<Sp>	pos@14
+8417	closed	pos@15
+10027	closed	pos@15
+11860	<Sp>	pos@21
+11862	today	pos@22
+13438	today	pos@22
+13442	<Entr>	pos@27
+[#]the library is closed today
+[#]the coronation was very exciting
+0	the	pos@0
+1130	the	pos@0
+4552	<Sp>	pos@3
+4554	coronation	pos@4
+5771	coronation	pos@4
+6547	<Sp>	pos@14
+6549	was	pos@15
+7770	was	pos@15
+8803	<Sp>	pos@18
+8818	very	pos@19
+10064	very	pos@19
+12333	<Sp>	pos@23
+12337	exciting	pos@24
+13437	exciting	pos@24
+13440	<Entr>	pos@32
+[#]the coronation was very exciting
+[#]win first prize in the contest
+0	win	pos@0
+1355	win	pos@0
+2906	<Sp>	pos@3
+2909	first	pos@4
+4021	first	pos@4
+5878	<Sp>	pos@9
+5881	prize	pos@10
+7311	prize	pos@10
+7650	<Sp>	pos@15
+7652	in	pos@16
+8275	in	pos@16
+8849	<Sp>	pos@18
+8851	the	pos@19
+9855	the	pos@19
+11901	<Sp>	pos@22
+11903	contest	pos@23
+12953	contest	pos@23
+12955	<Entr>	pos@30
+[#]win first prize in the contest
+[#]i spilled coffee on the carpet
+0	i	pos@0
+124	i	pos@0
+1522	I	pos@0
+3743	<Sp>	pos@1
+3746	spilled	pos@2
+5287	spilled	pos@2
+7104	<Sp>	pos@9
+7121	coffee	pos@10
+8367	coffee	pos@10
+8800	<Sp>	pos@16
+8828	on	pos@17
+9438	on	pos@17
+10173	<Sp>	pos@19
+10175	the	pos@20
+11493	the	pos@20
+13597	<Sp>	pos@23
+13599	carpet	pos@24
+14348	carpet	pos@24
+14352	<Entr>	pos@30
+[#]I spilled coffee on the carpet
+[#]this is a non profit organization
+0	this	pos@0
+485	this	pos@0
+950	<Sp>	pos@4
+952	is	pos@5
+2597	is	pos@5
+2601	<Sp>	pos@7
+2625	a	pos@8
+2750	a	pos@8
+3470	a	pos@8
+4063	<Sp>	pos@9
+4066	non	pos@10
+5306	non	pos@10
+7259	<Sp>	pos@13
+7263	profit	pos@14
+8638	profit	pos@14
+13377	<Sp>	pos@20
+13382	organisation	pos@21
+15848	organisation	pos@21
+15852	<Entr>	pos@33
+[#]this is a non profit organisation
+[#]meet tomorrow in the lavatory
+0	meet	pos@0
+1461	meet	pos@0
+4616	<Sp>	pos@4
+4618	tomorrow	pos@5
+7535	tomorrow	pos@5
+7833	<Sp>	pos@13
+7835	in	pos@14
+8825	in	pos@14
+9416	<Sp>	pos@16
+9418	the	pos@17
+10361	the	pos@17
+13639	<Sp>	pos@20
+13642	lavatory	pos@21
+15070	lavatory	pos@21
+15072	<Entr>	pos@29
+[#]meet tomorrow in the lavatory
+[#]bad for the environment
+0	has	pos@0
+1522	<Bksp>	pos@0
+3589	had	pos@0
+5654	<Bksp>	pos@0
+7473	bass	pos@0
+9091	bad	pos@0
+11475	<Sp>	pos@3
+11478	for	pos@4
+14038	for	pos@4
+14788	<Sp>	pos@7
+14790	the	pos@8
+16581	the	pos@8
+20592	<Sp>	pos@11
+20594	environment	pos@12
+21712	environment	pos@12
+21715	<Entr>	pos@23
+[#]bad for the environment
+[#]irregular verbs are the hardest to learn
+0	irregular	pos@0
+1491	irregular	pos@0
+2858	<Sp>	pos@9
+2860	verbs	pos@10
+4086	verbs	pos@10
+4359	<Sp>	pos@15
+4361	are	pos@16
+4453	are	pos@16
+4455	<Sp>	pos@19
+4469	w	pos@20
+5999	<Bksp>	pos@20
+7487	the	pos@20
+8903	the	pos@20
+11171	<Sp>	pos@23
+11175	hardest	pos@24
+12856	hardest	pos@24
+13143	<Sp>	pos@31
+13145	to	pos@32
+13944	to	pos@32
+15965	<Sp>	pos@34
+15971	learn	pos@35
+17306	learn	pos@35
+17311	<Entr>	pos@40
+[#]irregular verbs are the hardest to learn
+[#]he watched in astonishment
+0	he	pos@0
+865	he	pos@0
+2788	<Sp>	pos@2
+2790	watched	pos@3
+3507	watched	pos@3
+3747	<Sp>	pos@10
+3751	in	pos@11
+5483	in	pos@11
+9852	<Sp>	pos@13
+9868	astonishment	pos@14
+11238	astonishment	pos@14
+11242	<Entr>	pos@26
+[#]he watched in astonishment
+[#]lydia wants to go home
+0	Lydia	pos@0
+2158	Lydia	pos@0
+4096	<Sp>	pos@5
+4098	wants	pos@6
+5415	wants	pos@6
+5661	<Sp>	pos@11
+5663	to	pos@12
+7030	to	pos@12
+7257	<Sp>	pos@14
+7259	go	pos@15
+8337	go	pos@15
+9311	<Sp>	pos@17
+9324	home	pos@18
+10360	home	pos@18
+10364	<Entr>	pos@22
+[#]Lydia wants to go home
+[#]please follow the guidelines
+0	please	pos@0
+1633	please	pos@0
+3113	<Sp>	pos@6
+3116	follow	pos@7
+4178	follow	pos@7
+4756	<Sp>	pos@13
+4769	the	pos@14
+6202	the	pos@14
+9307	<Sp>	pos@17
+9308	guidelines	pos@18
+11847	guidelines	pos@18
+11852	<Entr>	pos@28
+[#]please follow the guidelines
+[#]staying up all night is a bad idea
+0	staying	pos@0
+1182	staying	pos@0
+1455	<Sp>	pos@7
+1457	up	pos@8
+2177	up	pos@8
+2757	<Sp>	pos@10
+2760	all	pos@11
+3902	all	pos@11
+4844	<Sp>	pos@14
+4847	night	pos@15
+5685	night	pos@15
+6074	<Sp>	pos@20
+6076	is	pos@21
+6552	is	pos@21
+6555	<Sp>	pos@23
+6577	a	pos@24
+7362	a	pos@24
+8368	<Sp>	pos@25
+8371	bass	pos@26
+9759	bad	pos@26
+12195	<Sp>	pos@29
+12202	idea	pos@30
+13115	idea	pos@30
+13119	<Entr>	pos@34
+[#]staying up all night is a bad idea
+[#]round robin scheduling
+0	round	pos@0
+1332	round	pos@0
+2591	<Sp>	pos@5
+2593	robin	pos@6
+3990	robin	pos@6
+7491	<Sp>	pos@11
+7493	scheduling	pos@12
+9244	scheduling	pos@12
+9248	<Entr>	pos@22
+[#]round robin scheduling
+[#]be discreet about your meeting
+0	be	pos@0
+1315	be	pos@0
+3348	<Sp>	pos@2
+3351	discreet	pos@3
+5185	discreet	pos@3
+6707	<Sp>	pos@11
+6709	about	pos@12
+7841	about	pos@12
+8749	<Sp>	pos@17
+8752	you're	pos@18
+10149	your	pos@18
+13172	<Sp>	pos@22
+13174	meeting	pos@23
+14004	meeting	pos@23
+14008	<Entr>	pos@30
+[#]be discreet about your meeting
+[#]be persistent to win a strike
+0	be	pos@0
+809	be	pos@0
+4690	<Sp>	pos@2
+4692	persistent	pos@3
+5617	persistent	pos@3
+5873	<Sp>	pos@13
+5875	to	pos@14
+6800	to	pos@14
+7457	<Sp>	pos@16
+7461	won	pos@17
+9003	win	pos@17
+9912	<Sp>	pos@20
+9943	a	pos@21
+10907	a	pos@21
+12280	<Sp>	pos@22
+12305	strike	pos@23
+13310	strike	pos@23
+13312	<Entr>	pos@29
+[#]be persistent to win a strike
+[#]my fingers are very cold
+0	my	pos@0
+720	my	pos@0
+2545	<Sp>	pos@2
+2548	fingers	pos@3
+3588	fingers	pos@3
+4048	<Sp>	pos@10
+4051	are	pos@11
+5110	are	pos@11
+5834	<Sp>	pos@14
+5836	very	pos@15
+6808	very	pos@15
+6810	<Sp>	pos@19
+6833	c	pos@20
+6980	c	pos@20
+8140	<Sp>	pos@21
+8158	cold	pos@22
+10092	cold	pos@22
+10095	<Entr>	pos@26
+[#]my fingers are very c cold
+[#]the gun discharged by accident
+0	the	pos@0
+736	the	pos@0
+1171	<Sp>	pos@3
+1186	gin	pos@4
+2948	gin	pos@4
+6279	<Sp>	pos@7
+6281	discharged	pos@8
+8876	discharged	pos@8
+9054	<Sp>	pos@18
+9056	by	pos@19
+10238	by	pos@19
+13063	<Sp>	pos@21
+13067	accident	pos@22
+14614	accident	pos@22
+14618	<Entr>	pos@30
+[#]the gin discharged by accident
+[#]a good stimulus deserves a good response
+0	a	pos@0
+1065	a	pos@0
+1852	<Sp>	pos@1
+1857	good	pos@2
+2946	good	pos@2
+5286	<Sp>	pos@6
+5290	stimulus	pos@7
+6917	stimulus	pos@7
+9122	<Sp>	pos@15
+9125	deserves	pos@16
+10964	deserves	pos@16
+10967	<Sp>	pos@24
+10991	a	pos@25
+11834	a	pos@25
+12535	<Sp>	pos@26
+12537	good	pos@27
+14345	good	pos@27
+16441	<Sp>	pos@31
+16446	response	pos@32
+17429	response	pos@32
+17434	<Entr>	pos@40
+[#]a good stimulus deserves a good response
+[#]historic meeting without a result
+0	historic	pos@0
+1251	historic	pos@0
+3094	<Sp>	pos@8
+3098	meeting	pos@9
+4256	meeting	pos@9
+6163	<Sp>	pos@16
+6167	without	pos@17
+7413	without	pos@17
+7415	<Sp>	pos@24
+7449	a	pos@25
+8131	a	pos@25
+9673	<Sp>	pos@26
+9675	result	pos@27
+10542	result	pos@27
+10545	<Entr>	pos@33
+[#]historic meeting without a result
+[#]my bike has a flat tire
+0	my	pos@0
+1385	my	pos@0
+2341	<Sp>	pos@2
+2342	bike	pos@3
+3881	bike	pos@3
+4859	<Sp>	pos@7
+4862	has	pos@8
+6693	has	pos@8
+6695	<Sp>	pos@11
+6725	a	pos@12
+7817	a	pos@12
+9167	<Sp>	pos@13
+9169	flat	pos@14
+10566	flat	pos@14
+11411	<Sp>	pos@18
+11412	tour	pos@19
+12989	<Bksp>	pos@19
+14763	you're	pos@19
+16218	<Bksp>	pos@19
+18085	tie	pos@19
+19295	tire	pos@19
+19983	<Entr>	pos@23
+[#]my bike has a flat tire
+[#]Log closed: Mon May 20 14:11:39 GMT+12:00 2019

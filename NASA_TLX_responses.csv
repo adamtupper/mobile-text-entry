@@ -11,3 +11,9 @@ participant,interface,mental_demand,physical_demand,temporal_demand,performance,
 2,Gesture1T,20,19,13,3,16,7
 2,Gesture2T,16,5,10,4,19,19
 2,Gesture1F,12,2,10,2,13,4
+3,Touch2T,11,9,13,1,13,4
+3,Gesture1T,13,20,14,13,20,20
+3,Touch1F,4,9,17,6,16,18
+3,Gesture1F,13,6,8,4,13,7
+3,Touch1T,6,18,7,2,16,12
+3,Gesture2T,12,4,16,2,8,14

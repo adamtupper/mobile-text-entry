@@ -1,0 +1,373 @@
+[#]Log opened: Mon May 20 14:30:10 GMT+12:00 2019
+[#]the dog buried the bone
+0	the	pos@0
+465	the	pos@0
+1345	<Sp>	pos@3
+1347	dog	pos@4
+2111	dog	pos@4
+3739	<Sp>	pos@7
+3741	buried	pos@8
+4577	buried	pos@8
+5048	<Sp>	pos@14
+5053	the	pos@15
+5654	the	pos@15
+6743	<Sp>	pos@18
+6750	bone	pos@19
+7806	bone	pos@19
+7808	<Entr>	pos@23
+[#]the dog buried the bone
+[#]the union will go on strike
+0	the	pos@0
+1083	the	pos@0
+2061	<Sp>	pos@3
+2064	union	pos@4
+2790	union	pos@4
+3589	<Sp>	pos@9
+3591	will	pos@10
+5240	will	pos@10
+5626	<Sp>	pos@14
+5628	go	pos@15
+6205	go	pos@15
+6527	<Sp>	pos@17
+6529	on	pos@18
+7615	on	pos@18
+9378	<Sp>	pos@20
+9383	strike	pos@21
+10186	strike	pos@21
+10188	<Entr>	pos@27
+[#]the union will go on strike
+[#]the registration period is over
+0	the	pos@0
+1996	the	pos@0
+4899	<Sp>	pos@3
+4902	registration	pos@4
+6397	registration	pos@4
+8267	<Sp>	pos@16
+8270	period	pos@17
+9572	period	pos@17
+11935	<Sp>	pos@23
+11937	isomer	pos@24
+12872	<Bksp>	pos@24
+14999	is	pos@24
+15863	is	pos@24
+16664	<Sp>	pos@26
+16666	over	pos@27
+17484	over	pos@27
+17487	<Entr>	pos@31
+[#]the registration period is over
+[#]the second largest country
+0	the	pos@0
+893	the	pos@0
+2595	<Sp>	pos@3
+2597	second	pos@4
+3691	second	pos@4
+5742	<Sp>	pos@10
+5755	largest	pos@11
+8786	largest	pos@11
+10532	<Sp>	pos@18
+10534	country	pos@19
+11566	country	pos@19
+11569	<Entr>	pos@26
+[#]the second largest country
+[#]be discreet about your meeting
+0	be	pos@0
+737	be	pos@0
+2675	<Sp>	pos@2
+2703	discreet	pos@3
+3598	discreet	pos@3
+4900	<Sp>	pos@11
+4902	about	pos@12
+5796	about	pos@12
+6434	<Sp>	pos@17
+6436	your	pos@18
+7044	your	pos@18
+8686	<Sp>	pos@22
+8689	meeting	pos@23
+9405	meeting	pos@23
+9408	<Entr>	pos@30
+[#]be discreet about your meeting
+[#]we must redouble our efforts
+0	we	pos@0
+789	we	pos@0
+1731	<Sp>	pos@2
+1734	must	pos@3
+3080	must	pos@3
+5383	<Sp>	pos@7
+5385	redouble	pos@8
+7490	redouble	pos@8
+7923	<Sp>	pos@16
+7925	or	pos@17
+9111	<Bksp>	pos@17
+10469	our	pos@17
+11774	our	pos@17
+13318	<Sp>	pos@20
+13321	efforts	pos@21
+14069	efforts	pos@21
+14072	<Entr>	pos@28
+[#]we must redouble our efforts
+[#]on the way to the cottage
+0	on	pos@0
+754	on	pos@0
+1219	<Sp>	pos@2
+1222	the	pos@3
+2210	the	pos@3
+2783	<Sp>	pos@6
+2786	way	pos@7
+4388	way	pos@7
+4568	<Sp>	pos@10
+4570	to	pos@11
+5337	to	pos@11
+5803	<Sp>	pos@13
+5805	the	pos@14
+6855	the	pos@14
+8436	<Sp>	pos@17
+8438	cottage	pos@18
+9221	cottage	pos@18
+9224	<Entr>	pos@25
+[#]on the way to the cottage
+[#]the largest of the five oceans
+0	the	pos@0
+672	the	pos@0
+2342	<Sp>	pos@3
+2344	largest	pos@4
+3550	largest	pos@4
+3858	<Sp>	pos@11
+3859	of	pos@12
+4232	of	pos@12
+4729	<Sp>	pos@14
+4732	the	pos@15
+5734	the	pos@15
+6782	<Sp>	pos@18
+6784	five	pos@19
+7636	five	pos@19
+9363	<Sp>	pos@23
+9366	oceans	pos@24
+10265	oceans	pos@24
+10269	<Entr>	pos@30
+[#]the largest of the five oceans
+[#]our fax number has changed
+0	our	pos@0
+1102	our	pos@0
+1646	<Sp>	pos@3
+1648	fax	pos@4
+2542	fax	pos@4
+4068	<Sp>	pos@7
+4070	number	pos@8
+5167	number	pos@8
+5855	<Sp>	pos@14
+5857	has	pos@15
+7001	has	pos@15
+8943	<Sp>	pos@18
+8946	changed	pos@19
+9867	changed	pos@19
+9870	<Entr>	pos@26
+[#]our fax number has changed
+[#]you will loose your voice
+0	you	pos@0
+912	you	pos@0
+1566	<Sp>	pos@3
+1581	will	pos@4
+2680	will	pos@4
+3892	<Sp>	pos@8
+3894	lose	pos@9
+5390	loose	pos@9
+7305	<Sp>	pos@14
+7307	your	pos@15
+8467	your	pos@15
+9712	<Sp>	pos@19
+9716	voice	pos@20
+10450	voice	pos@20
+10453	<Entr>	pos@25
+[#]you will loose your voice
+[#]knee bone is connected to the thigh bone
+0	knee	pos@0
+865	knee	pos@0
+1782	<Sp>	pos@4
+1784	bone	pos@5
+2684	bone	pos@5
+3006	<Sp>	pos@9
+3020	is	pos@10
+4011	is	pos@10
+6303	<Sp>	pos@12
+6306	connected	pos@13
+7696	connected	pos@13
+7956	<Sp>	pos@22
+7959	to	pos@23
+8411	to	pos@23
+8892	<Sp>	pos@25
+8896	the	pos@26
+10105	the	pos@26
+11046	<Sp>	pos@29
+11048	though	pos@30
+12424	thigh	pos@30
+14835	<Sp>	pos@35
+14838	bone	pos@36
+15668	bone	pos@36
+15671	<Entr>	pos@40
+[#]knee bone is connected to the thigh bone
+[#]we are having spaghetti
+0	we	pos@0
+688	we	pos@0
+1162	<Sp>	pos@2
+1165	are	pos@3
+2254	are	pos@3
+3954	<Sp>	pos@6
+3957	having	pos@7
+5290	having	pos@7
+7937	<Sp>	pos@13
+7954	spaghetti	pos@14
+8959	spaghetti	pos@14
+8963	<Entr>	pos@23
+[#]we are having spaghetti
+[#]presidents drive expensive cars
+0	presidents	pos@0
+1448	presidents	pos@0
+2502	<Sp>	pos@10
+2504	drive	pos@11
+4151	drive	pos@11
+6962	<Sp>	pos@16
+6966	expensive	pos@17
+8296	expensive	pos@17
+9015	<Sp>	pos@26
+9017	cars	pos@27
+9824	cars	pos@27
+9826	<Entr>	pos@31
+[#]presidents drive expensive cars
+[#]no more war no more bloodshed
+0	no	pos@0
+454	no	pos@0
+1204	<Sp>	pos@2
+1206	more	pos@3
+2304	more	pos@3
+2770	<Sp>	pos@7
+2772	war	pos@8
+3869	war	pos@8
+4081	<Sp>	pos@11
+4084	no	pos@12
+4866	no	pos@12
+5554	<Sp>	pos@14
+5556	more	pos@15
+6812	more	pos@15
+9072	<Sp>	pos@19
+9095	bloodshed	pos@20
+9909	bloodshed	pos@20
+9911	<Entr>	pos@29
+[#]no more war no more bloodshed
+[#]shall we play a round of cards
+0	shall	pos@0
+1078	shall	pos@0
+1260	<Sp>	pos@5
+1263	we	pos@6
+2155	we	pos@6
+3285	<Sp>	pos@8
+3287	play	pos@9
+4824	play	pos@9
+4825	<Sp>	pos@13
+4849	a	pos@14
+5632	a	pos@14
+7038	<Sp>	pos@15
+7040	rooms	pos@16
+7990	rooms	pos@16
+8253	<Sp>	pos@21
+8256	of	pos@22
+8890	of	pos@22
+9786	<Sp>	pos@24
+9789	cars	pos@25
+10552	cars	pos@25
+10556	<Entr>	pos@29
+[#]shall we play a rooms of cars
+[#]nothing wrong with his style
+0	nothing	pos@0
+1448	nothing	pos@0
+2672	<Sp>	pos@7
+2675	wrong	pos@8
+4260	wrong	pos@8
+5146	<Sp>	pos@13
+5149	with	pos@14
+6128	with	pos@14
+6668	<Sp>	pos@18
+6670	his	pos@19
+8623	his	pos@19
+9945	<Sp>	pos@22
+9947	style	pos@23
+10826	style	pos@23
+10829	<Entr>	pos@28
+[#]nothing wrong with his style
+[#]two or three cups of coffee
+0	two	pos@0
+1396	two	pos@0
+1718	<Sp>	pos@3
+1720	or	pos@4
+4002	or	pos@4
+4800	<Sp>	pos@6
+4802	the	pos@7
+6856	three	pos@7
+9047	<Sp>	pos@12
+9049	cups	pos@13
+10719	cups	pos@13
+11015	<Sp>	pos@17
+11017	of	pos@18
+12667	of	pos@18
+13956	<Sp>	pos@20
+13959	coffee	pos@21
+15364	coffee	pos@21
+15367	<Entr>	pos@27
+[#]two or three cups of coffee
+[#]prevailing wind from the east
+0	prevailing	pos@0
+1240	prevailing	pos@0
+2122	<Sp>	pos@10
+2124	wind	pos@11
+3614	wind	pos@11
+4493	<Sp>	pos@15
+4495	from	pos@16
+5590	from	pos@16
+6081	<Sp>	pos@20
+6083	the	pos@21
+6632	the	pos@21
+7177	<Sp>	pos@24
+7179	east	pos@25
+8272	east	pos@25
+8276	<Entr>	pos@29
+[#]prevailing wind from the east
+[#]important news always seems to be late
+0	important	pos@0
+1824	important	pos@0
+2761	<Sp>	pos@9
+2763	news	pos@10
+4921	news	pos@10
+6612	<Sp>	pos@14
+6614	always	pos@15
+7991	always	pos@15
+9171	<Sp>	pos@21
+9174	seems	pos@22
+10361	seems	pos@22
+10697	<Sp>	pos@27
+10698	to	pos@28
+11343	to	pos@28
+11602	<Sp>	pos@30
+11604	be	pos@31
+12766	be	pos@31
+13639	<Sp>	pos@33
+13640	late	pos@34
+14436	late	pos@34
+14438	<Entr>	pos@38
+[#]important news always seems to be late
+[#]head shoulders knees and toes
+0	head	pos@0
+1226	head	pos@0
+3260	<Sp>	pos@4
+3262	shoulders	pos@5
+4910	shoulders	pos@5
+6137	<Sp>	pos@14
+6140	knees	pos@15
+7363	knees	pos@15
+8084	<Sp>	pos@20
+8086	and	pos@21
+9527	and	pos@21
+10566	<Sp>	pos@24
+10569	tours	pos@25
+12424	toes	pos@25
+13234	<Entr>	pos@29
+[#]head shoulders knees and toes
+[#]Log closed: Mon May 20 14:34:59 GMT+12:00 2019
