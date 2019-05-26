@@ -42,7 +42,7 @@ condition_data = ddply(log_data,
                        sd_cer=sd(cer))
 
 ggplot(condition_data, aes(posture, mean_wpm, fill=interface)) +
-  geom_col(stat="identity", position="dodge") +
+  geom_col(position="dodge") +
   geom_errorbar(aes(ymin=mean_wpm - sd_wpm, ymax=mean_wpm + sd_wpm), width=0.2, position=position_dodge(0.9)) +
   scale_fill_discrete(name="Interface",
                       labels=c("SGK", "STK")) +
@@ -52,7 +52,7 @@ ggplot(condition_data, aes(posture, mean_wpm, fill=interface)) +
         legend.justification = c(0, 1))
   
 ggplot(condition_data, aes(posture, mean_cer, fill=interface)) +
-  geom_col(stat="identity", position="dodge") +
+  geom_col(position="dodge") +
   geom_errorbar(aes(ymin=max(mean_cer - sd_cer, 0), ymax=mean_cer + sd_cer), width=0.2, position=position_dodge(0.9)) +
   scale_fill_discrete(name="Interface",
                       labels=c("SGK", "STK")) +
