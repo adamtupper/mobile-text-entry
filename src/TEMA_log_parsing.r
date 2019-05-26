@@ -40,6 +40,15 @@ parse_TEMA_stats_log = function(log_file_path) {
   log_data['condition'] = as.factor(paste(filename_components[3], filename_components[4], sep=""))
   log_data['cer'] = levenshtein.distance(log_data$transcribed, log_data$presented) / nchar(log_data$presented)
   
+  # Remove first 5 trials (familiarisation)
+  log_data = log_data[!(log_data$trial %in% c(1, 2, 3, 4, 5)),]
+  
+  # Filter outliers (> 3 sd)
+  sd_wpm = sd(log_data$wpm)
+  sd_cer = sd(log_data$cer)
+  log_data = log_data[!(log_data$wpm > log_data$wpm + 3*sd_wpm),]
+  log_data = log_data[!(log_data$cer > log_data$cer + 3*sd_cer),]
+  
   log_data
 }
 
