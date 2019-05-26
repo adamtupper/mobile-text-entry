@@ -25,11 +25,22 @@ log_data = combine_TEMA_stats_logs(log_dir)
 
 # Remove trials 1-5 for each technique and participant and calculate means
 log_data = log_data[!(log_data$trial %in% c(1, 2, 3, 4, 5)),]
-summarised_data = ddply(log_data, c("participant_id", "interface", "posture"), summarise, mean_uncor_error=mean(uncor_error))
+summarised_data = ddply(log_data, c("participant_id", "interface", "posture"), summarise, mean_cer=mean(cer))
 
 # Multifactor ANOVA
-ezANOVA(data=summarised_data, dv=mean_uncor_error, within=.(interface, posture), wid=participant_id)
+ezANOVA(data=summarised_data, dv=mean_cer, within=.(interface, posture), wid=participant_id)
 
 # Pairwise t-tests
-pairwise.t.test(summarised_data$mean_uncor_error, summarised_data$interface, p.adj="bonf", paired=T)
-pairwise.t.test(summarised_data$mean_uncor_error, summarised_data$posture, p.adj="bonf", paired=T)
+pairwise.t.test(summarised_data$mean_cer, summarised_data$interface, p.adj="bonf", paired=T)
+pairwise.t.test(summarised_data$mean_cer, summarised_data$posture, p.adj="bonf", paired=T)
+
+interface_posture_means = ddply(log_data, c("interface", "posture"), summarise, mean_cer=mean(cer), sd_cer=sd(cer))
+interface_means = ddply(log_data, c("interface"), summarise, mean_cer=mean(cer), sd_cer=sd(cer))
+posture_means = ddply(log_data, c("posture"), summarise, mean_cer=mean(cer), sd_cer=sd(cer))
+
+cat("\n")
+print(interface_posture_means)
+cat("\n")
+print(interface_means)
+cat("\n")
+print(posture_means)

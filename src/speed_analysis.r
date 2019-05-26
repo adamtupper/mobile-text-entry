@@ -33,3 +33,14 @@ ezANOVA(data=summarised_data, dv=mean_wpm, within=.(interface, posture), wid=par
 # Pairwise t-tests
 pairwise.t.test(summarised_data$mean_wpm, summarised_data$interface, p.adj="bonf", paired=T)
 pairwise.t.test(summarised_data$mean_wpm, summarised_data$posture, p.adj="bonf", paired=T)
+
+interface_posture_means = ddply(log_data, c("interface", "posture"), summarise, mean_wpm=mean(wpm), sd_wpm=sd(wpm))
+interface_means = ddply(log_data, c("interface"), summarise, mean_wpm=mean(wpm), sd_wpm=sd(wpm))
+posture_means = ddply(log_data, c("posture"), summarise, mean_wpm=mean(wpm), sd_wpm=sd(wpm))
+
+cat("\n")
+print(interface_posture_means)
+cat("\n")
+print(interface_means)
+cat("\n")
+print(posture_means)
