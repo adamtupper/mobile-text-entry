@@ -4,6 +4,7 @@
 # Since: 02/05/19
 
 library(tools)
+library(vwr)
 
 parse_TEMA_stats_log = function(log_file_path) {
   # Read log file and remove timestamp lines
@@ -22,8 +23,8 @@ parse_TEMA_stats_log = function(log_file_path) {
                   "total_time",
                   "wpm",
                   "msd",
-                  "numBksp",
-                  "numDelChars",
+                  "num_bksp",
+                  "num_del_chars",
                   "total_error",
                   "cor_error",
                   "uncor_error")
@@ -36,6 +37,8 @@ parse_TEMA_stats_log = function(log_file_path) {
   log_data['interface'] = as.factor(filename_components[3])
   log_data['posture'] = as.factor(filename_components[4])
   log_data['trial'] = as.factor(seq(1, nrow(log_data)))
+  log_data['condition'] = as.factor(paste(filename_components[3], filename_components[4], sep=""))
+  log_data['cer'] = levenshtein.distance(log_data$transcribed, log_data$presented) / nchar(log_data$presented)
   
   log_data
 }
