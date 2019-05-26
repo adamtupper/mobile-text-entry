@@ -1,0 +1,402 @@
+[#]Log opened: Sat May 25 16:36:53 GMT+12:00 2019
+[#]a problem with the engine
+0	a	pos@0
+556	a	pos@0
+561	<Sp>	pos@1
+1908	problem	pos@2
+3111	problem	pos@2
+3115	<Sp>	pos@9
+4155	with	pos@10
+5692	with	pos@10
+5921	<Sp>	pos@14
+5924	the	pos@15
+6752	the	pos@15
+7639	<Sp>	pos@18
+7642	engine	pos@19
+9490	engine	pos@19
+9493	<Entr>	pos@25
+[#]a problem with the engine
+[#]the postal service is very slow
+0	the	pos@0
+842	the	pos@0
+1619	<Sp>	pos@3
+1621	Patna	pos@4
+2748	<Bksp>	pos@4
+2928	<Bksp>	pos@3
+3570	the	pos@0
+3575	<Sp>	pos@3
+4931	postulate	pos@4
+5986	<Bksp>	pos@4
+7783	parks	pos@4
+8921	<Bksp>	pos@4
+11238	postal	pos@4
+12649	postal	pos@4
+13929	<Sp>	pos@10
+13932	service	pos@11
+14925	service	pos@11
+15121	<Sp>	pos@18
+15124	is	pos@19
+16029	is	pos@19
+16385	<Sp>	pos@21
+16414	very	pos@22
+17814	very	pos@22
+18347	<Sp>	pos@26
+18350	slow	pos@27
+19053	slow	pos@27
+19057	<Entr>	pos@31
+[#]the postal service is very slow
+[#]suburbs are sprawling up everywhere
+0	suburbs	pos@0
+1057	suburbs	pos@0
+1347	<Sp>	pos@7
+1351	are	pos@8
+2305	are	pos@8
+4868	<Sp>	pos@11
+4884	sprawling	pos@12
+6487	sprawling	pos@12
+6591	<Sp>	pos@21
+6594	up	pos@22
+8572	up	pos@22
+10937	<Sp>	pos@24
+10940	everywhere	pos@25
+12029	everywhere	pos@25
+12033	<Entr>	pos@35
+[#]suburbs are sprawling up everywhere
+[#]user friendly interface
+0	user	pos@0
+990	user	pos@0
+2270	<Sp>	pos@4
+2273	friendly	pos@5
+3404	friendly	pos@5
+5109	<Sp>	pos@13
+5114	interface	pos@14
+6355	interface	pos@14
+6359	<Entr>	pos@23
+[#]user friendly interface
+[#]the gun discharged by accident
+0	the	pos@0
+561	the	pos@0
+869	<Sp>	pos@3
+871	gun	pos@4
+1351	gun	pos@4
+2381	<Sp>	pos@7
+2383	was	pos@8
+2983	<Bksp>	pos@8
+6181	discharged	pos@8
+7338	discharged	pos@8
+7437	<Sp>	pos@18
+7438	by	pos@19
+8427	by	pos@19
+10001	<Sp>	pos@21
+10005	accident	pos@22
+10854	accident	pos@22
+10859	<Entr>	pos@30
+[#]the gun discharged by accident
+[#]physics and chemistry are hard
+0	physics	pos@0
+997	physics	pos@0
+1353	<Sp>	pos@7
+1357	and	pos@8
+2226	and	pos@8
+3722	<Sp>	pos@11
+3726	chemist	pos@12
+4759	chemistry	pos@12
+5666	<Sp>	pos@21
+5668	are	pos@22
+6474	are	pos@22
+6911	<Sp>	pos@25
+6914	hard	pos@26
+8302	hard	pos@26
+8310	<Entr>	pos@30
+[#]physics and chemistry are hard
+[#]prevailing wind from the east
+0	prevailing	pos@0
+1365	prevailing	pos@0
+1928	<Sp>	pos@10
+1931	wind	pos@11
+3052	wind	pos@11
+3490	<Sp>	pos@15
+3494	from	pos@16
+4315	from	pos@16
+4594	<Sp>	pos@20
+4598	the	pos@21
+5630	the	pos@21
+6014	<Sp>	pos@24
+6016	east	pos@25
+6597	east	pos@25
+6601	<Entr>	pos@29
+[#]prevailing wind from the east
+[#]the objective of the exercise
+0	the	pos@0
+861	the	pos@0
+4623	<Sp>	pos@3
+4642	objective	pos@4
+5968	objective	pos@4
+5970	<Sp>	pos@13
+5986	f	pos@14
+6357	f	pos@14
+6601	<Sp>	pos@15
+6603	the	pos@16
+8265	the	pos@16
+9718	<Sp>	pos@19
+9720	exercise	pos@20
+10534	exercise	pos@20
+10538	<Entr>	pos@28
+[#]the objective f the exercise
+[#]the bathroom is good for reading
+0	the	pos@0
+1397	the	pos@0
+2727	<Sp>	pos@3
+2730	bathrobe	pos@4
+4423	bathrooms	pos@4
+4839	<Bksp>	pos@12
+5271	bathroom	pos@4
+5275	<Sp>	pos@12
+5666	i	pos@13
+5797	i	pos@13
+7077	is	pos@13
+7195	is	pos@13
+7605	is	pos@13
+7607	<Sp>	pos@15
+8468	good	pos@16
+9305	good	pos@16
+9599	<Sp>	pos@20
+9604	for	pos@21
+10570	for	pos@21
+11388	<Sp>	pos@24
+11413	reading	pos@25
+12286	reading	pos@25
+12289	<Entr>	pos@32
+[#]the bathroom is good for reading
+[#]a fox is a very smart animal
+0	a	pos@0
+469	a	pos@0
+472	<Sp>	pos@1
+2011	fix	pos@2
+2599	fix	pos@2
+2703	<Sp>	pos@5
+2710	is	pos@6
+3746	is	pos@6
+3752	<Sp>	pos@8
+3775	a	pos@9
+4572	a	pos@9
+4992	<Sp>	pos@10
+4994	very	pos@11
+5914	very	pos@11
+6326	<Sp>	pos@15
+6328	smart	pos@16
+7464	smart	pos@16
+8373	<Sp>	pos@21
+8375	animal	pos@22
+10646	animal	pos@22
+10649	<Entr>	pos@28
+[#]a fix is a very smart animal
+[#]good jobs for those with education
+0	God	pos@0
+1582	God	pos@0
+2027	<Sp>	pos@3
+2029	jobs	pos@4
+3195	jobs	pos@4
+3456	<Sp>	pos@8
+3459	for	pos@9
+4205	for	pos@9
+4798	<Sp>	pos@12
+4801	those	pos@13
+5721	those	pos@13
+6260	<Sp>	pos@18
+6262	won't	pos@19
+9063	won't	pos@19
+9065	<Sp>	pos@24
+11371	education	pos@25
+12901	education	pos@25
+12905	<Entr>	pos@34
+[#]God jobs for those won't education
+[#]tell a lie and your nose will grow
+0	tell	pos@0
+947	tell	pos@0
+953	<Sp>	pos@4
+977	a	pos@5
+1432	a	pos@5
+1607	<Sp>	pos@6
+1610	Lee	pos@7
+3623	lie	pos@7
+5430	<Sp>	pos@10
+5432	and	pos@11
+6367	and	pos@11
+6738	<Sp>	pos@14
+6740	you	pos@15
+8095	you	pos@15
+8097	<Sp>	pos@18
+8128	r	pos@19
+9387	<Bksp>	pos@19
+10882	nose	pos@19
+11715	nose	pos@19
+11962	<Sp>	pos@23
+11965	will	pos@24
+13184	will	pos@24
+14046	<Sp>	pos@28
+14059	GDP	pos@29
+14733	<Bksp>	pos@29
+16632	grow	pos@29
+17602	grow	pos@29
+17606	<Entr>	pos@33
+[#]tell a lie and you nose will grow
+[#]i listen to the tape everyday
+0	i	pos@0
+125	i	pos@0
+347	I	pos@0
+350	<Sp>	pos@1
+2142	listing	pos@2
+5065	listing	pos@2
+5198	<Sp>	pos@9
+5200	to	pos@10
+6094	to	pos@10
+6568	<Sp>	pos@12
+6571	tape	pos@13
+7702	tape	pos@13
+9060	<Sp>	pos@17
+9063	ecstasy	pos@18
+11210	ecstasy	pos@18
+11214	<Entr>	pos@25
+[#]I listing to tape ecstasy
+[#]the dreamers of dreams
+0	the	pos@0
+843	the	pos@0
+1925	<Sp>	pos@3
+1927	steamers	pos@4
+4688	dreamers	pos@4
+5709	<Sp>	pos@12
+5712	of	pos@13
+6383	of	pos@13
+6994	<Sp>	pos@15
+6998	dreams	pos@16
+7783	dreams	pos@16
+7788	<Entr>	pos@22
+[#]the dreamers of dreams
+[#]stability of the nation
+0	stabilities	pos@0
+3062	stabilities	pos@0
+3209	<Sp>	pos@11
+3211	of	pos@12
+3732	of	pos@12
+3970	<Sp>	pos@14
+3984	the	pos@15
+4927	the	pos@15
+5751	<Sp>	pos@18
+5753	nation	pos@19
+6466	nation	pos@19
+6468	<Entr>	pos@25
+[#]stabilities of the nation
+[#]valid until the end of the year
+0	Vasili	pos@0
+1818	<Bksp>	pos@0
+3532	valid	pos@0
+4815	valid	pos@0
+5828	<Sp>	pos@5
+5831	until	pos@6
+7968	until	pos@6
+8229	<Sp>	pos@11
+8230	the	pos@12
+9073	the	pos@12
+9402	<Sp>	pos@15
+9405	end	pos@16
+10274	end	pos@16
+10374	<Sp>	pos@19
+10376	of	pos@20
+10827	of	pos@20
+11107	<Sp>	pos@22
+11112	the	pos@23
+11837	the	pos@23
+12212	<Sp>	pos@26
+12216	year	pos@27
+12929	year	pos@27
+12933	<Entr>	pos@31
+[#]valid until the end of the year
+[#]lydia wants to go home
+0	Lydia	pos@0
+863	Lydia	pos@0
+1468	<Sp>	pos@5
+1470	wants	pos@6
+2410	wants	pos@6
+2540	<Sp>	pos@11
+2542	to	pos@12
+3139	to	pos@12
+3301	<Sp>	pos@14
+3303	go	pos@15
+4055	go	pos@15
+4506	<Sp>	pos@17
+4508	home	pos@18
+5079	home	pos@18
+5082	<Entr>	pos@22
+[#]Lydia wants to go home
+[#]i will meet you at noon
+0	i	pos@0
+126	i	pos@0
+574	I	pos@0
+820	<Sp>	pos@1
+822	will	pos@2
+2263	will	pos@2
+2559	<Sp>	pos@6
+2562	meet	pos@7
+3686	meet	pos@7
+3784	<Sp>	pos@11
+3799	to	pos@12
+5416	<Bksp>	pos@12
+6340	you	pos@12
+7314	you	pos@12
+7424	<Sp>	pos@15
+7426	at	pos@16
+7930	at	pos@16
+8164	<Sp>	pos@18
+8166	non	pos@19
+9705	non	pos@19
+9708	<Entr>	pos@22
+[#]I will meet you at non
+[#]my car always breaks in the winter
+0	my	pos@0
+811	my	pos@0
+1103	<Sp>	pos@2
+1106	car	pos@3
+2094	car	pos@3
+2998	<Sp>	pos@6
+3000	always	pos@7
+4065	always	pos@7
+4845	<Sp>	pos@13
+4847	breaks	pos@14
+5821	breaks	pos@14
+5934	<Sp>	pos@20
+5939	in	pos@21
+6229	in	pos@21
+6476	<Sp>	pos@23
+6479	the	pos@24
+7273	the	pos@24
+8100	<Sp>	pos@27
+8103	winter	pos@28
+8706	winter	pos@28
+8709	<Entr>	pos@34
+[#]my car always breaks in the winter
+[#]put garbage in an abandoned mine
+0	poor	pos@0
+1072	<Bksp>	pos@0
+1819	out	pos@0
+2848	<Bksp>	pos@0
+3866	put	pos@0
+5440	put	pos@0
+6578	<Sp>	pos@3
+6579	garbage	pos@4
+7322	garbage	pos@4
+7421	<Sp>	pos@11
+7423	in	pos@12
+7841	in	pos@12
+8006	<Sp>	pos@14
+8010	an	pos@15
+9248	an	pos@15
+11203	<Sp>	pos@17
+11207	Abingdon's	pos@18
+14411	Abingdon's	pos@18
+14853	<Sp>	pos@28
+14855	mine	pos@29
+15991	mine	pos@29
+15996	<Entr>	pos@33
+[#]put garbage in an Abingdon's mine
+[#]Log closed: Sat May 25 16:41:20 GMT+12:00 2019

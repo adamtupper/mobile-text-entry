@@ -1,0 +1,416 @@
+[#]Log opened: Tue May 21 11:29:35 GMT+12:00 2019
+[#]my favorite web browser
+0	my	pos@0
+308	my	pos@0
+1364	<Sp>	pos@2
+1388	favourite	pos@3
+2220	favourite	pos@3
+2497	<Sp>	pos@12
+2500	web	pos@13
+2901	web	pos@13
+4462	<Sp>	pos@16
+4464	browser	pos@17
+5536	browser	pos@17
+5538	<Entr>	pos@24
+[#]my favourite web browser
+[#]it is very windy today
+0	it	pos@0
+216	it	pos@0
+381	<Sp>	pos@2
+395	is	pos@3
+989	is	pos@3
+1314	<Sp>	pos@5
+1317	very	pos@6
+1765	very	pos@6
+2445	<Sp>	pos@10
+2447	windy	pos@11
+2699	windy	pos@11
+3278	<Sp>	pos@16
+3305	today	pos@17
+3854	today	pos@17
+3857	<Entr>	pos@22
+[#]it is very windy today
+[#]you are a capitalist pig
+0	you	pos@0
+606	you	pos@0
+850	<Sp>	pos@3
+852	are	pos@4
+1141	are	pos@4
+1144	<Sp>	pos@7
+1167	a	pos@8
+1952	a	pos@8
+3745	<Sp>	pos@9
+3748	capitalist	pos@10
+4087	capitalist	pos@10
+4410	<Sp>	pos@20
+4413	of	pos@21
+5443	pig	pos@21
+6106	<Entr>	pos@24
+[#]you are a capitalist pig
+[#]the imagination of the nation
+0	the	pos@0
+250	the	pos@0
+2399	<Sp>	pos@3
+2402	imagination	pos@4
+2972	imagination	pos@4
+3166	<Sp>	pos@15
+3168	of	pos@16
+3555	of	pos@16
+3802	<Sp>	pos@18
+3805	the	pos@19
+4031	the	pos@19
+4866	<Sp>	pos@22
+4891	basin	pos@23
+5801	<Bksp>	pos@23
+7170	nation	pos@23
+7816	nation	pos@23
+7819	<Entr>	pos@29
+[#]the imagination of the nation
+[#]superman never wore a mask
+0	superman	pos@0
+478	superman	pos@0
+1366	<Sp>	pos@8
+1368	never	pos@9
+1711	never	pos@9
+2352	<Sp>	pos@14
+2355	wore	pos@15
+2966	wore	pos@15
+2969	<Sp>	pos@19
+2983	a	pos@20
+3294	a	pos@20
+4015	<Sp>	pos@21
+4019	mask	pos@22
+5230	mask	pos@22
+5233	<Entr>	pos@26
+[#]superman never wore a mask
+[#]dinosaurs have been extinct for ages
+0	dinosaurs	pos@0
+428	dinosaurs	pos@0
+915	<Sp>	pos@9
+918	gave	pos@10
+1201	gave	pos@10
+1550	<Sp>	pos@14
+1552	been	pos@15
+2332	<Bksp>	pos@15
+2481	<Bksp>	pos@14
+2577	gav	pos@10
+2702	ga	pos@10
+2952	g	pos@10
+3271	<Bksp>	pos@10
+4425	have	pos@10
+5155	have	pos@10
+5675	<Sp>	pos@14
+5677	been	pos@15
+6374	been	pos@15
+7965	<Sp>	pos@19
+7967	extinct	pos@20
+8573	extinct	pos@20
+8867	<Sp>	pos@27
+8869	fire	pos@28
+10050	for	pos@28
+10685	<Sp>	pos@31
+10698	agreed	pos@32
+12419	ages	pos@32
+13280	<Entr>	pos@36
+[#]dinosaurs have been extinct for ages
+[#]this camera takes nice photographs
+0	this	pos@0
+203	this	pos@0
+1042	<Sp>	pos@4
+1046	camera	pos@5
+1674	camera	pos@5
+2245	<Sp>	pos@11
+2248	takes	pos@12
+2877	takes	pos@12
+3363	<Sp>	pos@17
+3366	nice	pos@18
+3699	nice	pos@18
+5283	<Sp>	pos@22
+5285	photographs	pos@23
+6524	photographs	pos@23
+6529	<Entr>	pos@34
+[#]this camera takes nice photographs
+[#]a little encouragement is needed
+0	a	pos@0
+539	a	pos@0
+1091	<Sp>	pos@1
+1093	little	pos@2
+1560	little	pos@2
+4447	<Sp>	pos@8
+4449	enforcement	pos@9
+6198	<Bksp>	pos@9
+9612	encouragement	pos@9
+10599	encouragement	pos@9
+10748	<Sp>	pos@22
+10750	is	pos@23
+10962	is	pos@23
+12172	<Sp>	pos@25
+12174	Bede	pos@26
+13048	<Bksp>	pos@26
+13903	needed	pos@26
+14685	needed	pos@26
+14696	<Entr>	pos@32
+[#]a little encouragement is needed
+[#]employee recruitment takes a lot of effort
+0	smoke	pos@0
+1440	employee	pos@0
+4625	<Sp>	pos@8
+4627	recruitment	pos@9
+5539	recruitment	pos@9
+6153	<Sp>	pos@20
+6156	takes	pos@21
+6616	takes	pos@21
+6617	<Sp>	pos@26
+6638	a	pos@27
+7123	a	pos@27
+7448	<Sp>	pos@28
+7450	lot	pos@29
+7659	lot	pos@29
+7763	<Sp>	pos@32
+7766	of	pos@33
+8496	of	pos@33
+9333	<Sp>	pos@35
+9335	effort	pos@36
+10372	effort	pos@36
+10375	<Entr>	pos@42
+[#]employee recruitment takes a lot of effort
+[#]hands on experience with a job
+0	hands	pos@0
+366	hands	pos@0
+441	<Sp>	pos@5
+444	on	pos@6
+1139	on	pos@6
+3240	<Sp>	pos@8
+3242	experience	pos@9
+4020	experience	pos@9
+4506	<Sp>	pos@19
+4509	with	pos@20
+4790	with	pos@20
+4794	<Sp>	pos@24
+4818	a	pos@25
+5143	a	pos@25
+5374	<Sp>	pos@26
+5377	job	pos@27
+6087	job	pos@27
+6090	<Entr>	pos@30
+[#]hands on experience with a job
+[#]communicate through email
+0	communicate	pos@0
+289	communicate	pos@0
+1115	<Sp>	pos@11
+1117	through	pos@12
+1385	through	pos@12
+2065	<Sp>	pos@19
+2067	email	pos@20
+2784	email	pos@20
+2787	<Entr>	pos@25
+[#]communicate through email
+[#]my favorite place to visit
+0	my	pos@0
+230	my	pos@0
+1150	<Sp>	pos@2
+1152	favourite	pos@3
+1656	favourite	pos@3
+2282	<Sp>	pos@12
+2284	place	pos@13
+2525	place	pos@13
+2631	<Sp>	pos@18
+2633	to	pos@19
+3252	to	pos@19
+3865	<Sp>	pos@21
+3869	visit	pos@22
+4660	visit	pos@22
+4663	<Entr>	pos@27
+[#]my favourite place to visit
+[#]file all complaints in writing
+0	fine	pos@0
+394	fine	pos@0
+584	<Sp>	pos@4
+586	all	pos@5
+1085	<Bksp>	pos@5
+1254	<Bksp>	pos@4
+1362	fin	pos@0
+1474	fi	pos@0
+1775	f	pos@0
+1899	<Bksp>	pos@0
+3076	file	pos@0
+3509	file	pos@0
+3678	<Sp>	pos@4
+3682	all	pos@5
+4378	all	pos@5
+5915	<Sp>	pos@8
+5917	complaints	pos@9
+6688	complaints	pos@9
+6836	<Sp>	pos@19
+6838	in	pos@20
+7147	in	pos@20
+8130	<Sp>	pos@22
+8134	worrying	pos@23
+9801	writing	pos@23
+10992	<Entr>	pos@30
+[#]file all complaints in writing
+[#]drugs should be avoided
+0	drugs	pos@0
+548	drugs	pos@0
+1228	<Sp>	pos@5
+1230	should	pos@6
+1449	should	pos@6
+1635	<Sp>	pos@12
+1639	be	pos@13
+2368	be	pos@13
+3190	<Sp>	pos@15
+3192	avoided	pos@16
+3869	avoided	pos@16
+3873	<Entr>	pos@23
+[#]drugs should be avoided
+[#]my favorite place to visit
+0	my	pos@0
+340	my	pos@0
+1583	<Sp>	pos@2
+1585	favourite	pos@3
+2747	favourite	pos@3
+3417	<Sp>	pos@12
+3429	place	pos@13
+3662	place	pos@13
+3798	<Sp>	pos@18
+3800	to	pos@19
+4502	to	pos@19
+5038	<Sp>	pos@21
+5059	visit	pos@22
+5970	visit	pos@22
+5975	<Entr>	pos@27
+[#]my favourite place to visit
+[#]quit while you are ahead
+0	quit	pos@0
+383	quit	pos@0
+994	<Sp>	pos@4
+998	while	pos@5
+1617	while	pos@5
+1846	<Sp>	pos@10
+1849	you	pos@11
+2121	you	pos@11
+2386	<Sp>	pos@14
+2390	ate	pos@15
+2690	ate	pos@15
+3309	<Sp>	pos@18
+3310	ahead	pos@19
+5232	<Bksp>	pos@19
+5468	<Bksp>	pos@18
+5604	at	pos@15
+5727	a	pos@15
+5854	<Bksp>	pos@15
+5965	<Bksp>	pos@14
+6550	you	pos@11
+6552	<Sp>	pos@14
+7156	are	pos@15
+7845	are	pos@15
+8524	<Sp>	pos@18
+8526	ahead	pos@19
+9220	ahead	pos@19
+9223	<Entr>	pos@24
+[#]quit while you are ahead
+[#]shivering is one way to keep warm
+0	shivering	pos@0
+475	shivering	pos@0
+688	<Sp>	pos@9
+690	is	pos@10
+1012	is	pos@10
+1341	<Sp>	pos@12
+1344	one	pos@13
+2073	one	pos@13
+2287	<Sp>	pos@16
+2289	way	pos@17
+2993	way	pos@17
+3066	<Sp>	pos@20
+3092	to	pos@21
+3307	to	pos@21
+3667	<Sp>	pos@23
+3671	hero	pos@24
+4640	<Bksp>	pos@24
+5395	keep	pos@24
+6122	keep	pos@24
+6503	<Sp>	pos@28
+6505	warm	pos@29
+7377	warm	pos@29
+7380	<Entr>	pos@33
+[#]shivering is one way to keep warm
+[#]look in the syllabus for the course
+0	look	pos@0
+280	look	pos@0
+399	<Sp>	pos@4
+401	in	pos@5
+642	in	pos@5
+887	<Sp>	pos@7
+890	the	pos@8
+1593	the	pos@8
+3045	<Sp>	pos@11
+3048	syllabus	pos@12
+3665	syllabus	pos@12
+3973	<Sp>	pos@20
+3977	die	pos@21
+5263	<Bksp>	pos@21
+6078	for	pos@21
+6685	for	pos@21
+6962	<Sp>	pos@24
+6964	the	pos@25
+7570	the	pos@25
+8500	<Sp>	pos@28
+8504	course	pos@29
+9219	course	pos@29
+9221	<Entr>	pos@35
+[#]look in the syllabus for the course
+[#]elections bring out the best
+0	elections	pos@0
+635	elections	pos@0
+1280	<Sp>	pos@9
+1282	being	pos@10
+1567	being	pos@10
+1882	<Sp>	pos@15
+1885	out	pos@16
+2121	out	pos@16
+2727	<Sp>	pos@19
+2729	the	pos@20
+3390	<Bksp>	pos@20
+3444	<Bksp>	pos@19
+3503	ou	pos@16
+3553	o	pos@16
+3605	<Bksp>	pos@16
+3658	<Bksp>	pos@15
+3754	bein	pos@10
+3804	bei	pos@10
+3872	be	pos@10
+3922	b	pos@10
+4258	<Bksp>	pos@10
+5658	bring	pos@10
+6280	bring	pos@10
+6748	<Sp>	pos@15
+6751	out	pos@16
+7041	out	pos@16
+7319	<Sp>	pos@19
+7323	the	pos@20
+7579	the	pos@20
+7963	<Sp>	pos@23
+7965	best	pos@24
+8753	best	pos@24
+8755	<Entr>	pos@28
+[#]elections bring out the best
+[#]one heck of a question
+0	one	pos@0
+495	one	pos@0
+1061	<Sp>	pos@3
+1088	heck	pos@4
+1366	heck	pos@4
+1551	<Sp>	pos@8
+1554	if	pos@9
+2550	of	pos@9
+2980	<Sp>	pos@11
+3010	a	pos@12
+3391	a	pos@12
+4129	<Sp>	pos@13
+4132	Wharton	pos@14
+5119	<Bksp>	pos@14
+6942	question	pos@14
+7572	question	pos@14
+7576	<Entr>	pos@22
+[#]one heck of a question
+[#]Log closed: Tue May 21 11:33:10 GMT+12:00 2019
