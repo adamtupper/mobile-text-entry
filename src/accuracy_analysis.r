@@ -34,6 +34,7 @@ ezANOVA(data=summarised_data, dv=mean_cer, within=.(interface, posture), wid=par
 pairwise.t.test(summarised_data$mean_cer, summarised_data$interface, p.adj="bonf", paired=T)
 pairwise.t.test(summarised_data$mean_cer, summarised_data$posture, p.adj="bonf", paired=T)
 
+# Print summary statistics
 interface_posture_means = ddply(log_data, c("interface", "posture"), summarise, mean_cer=mean(cer), sd_cer=sd(cer))
 interface_means = ddply(log_data, c("interface"), summarise, mean_cer=mean(cer), sd_cer=sd(cer))
 posture_means = ddply(log_data, c("posture"), summarise, mean_cer=mean(cer), sd_cer=sd(cer))
