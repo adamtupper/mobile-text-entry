@@ -12,6 +12,10 @@ library(gridExtra)
 
 source("src/TEMA_log_parsing.r")
 
+# Define colour map
+cbp <- c("#999999", "#E69F00", "#56B4E9", "#009E73",
+         "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
 # Load data
 log_dir = "TEMA-logs/study/"
 tlx_response_file = "NASA_TLX_responses.csv"
@@ -67,8 +71,6 @@ ggplot(condition_data, aes(posture, mean_cer, fill=interface)) +
         legend.justification = c(0, 1))
 
 # Plot NASA-TLX Results
-cbp <- c("#999999", "#E69F00", "#56B4E9", "#009E73",
-          "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
 tlx_condition_data = ddply(tlx_data,
                            c("interface"),
                            summarise,
