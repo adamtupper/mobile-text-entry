@@ -7,6 +7,8 @@
 
 #!/usr/bin/env Rscript
 
+library(plyr)
+
 # Check for responses file in command line arguments
 args = commandArgs(trailingOnly=TRUE)
 if (length(args) == 0) {
@@ -26,3 +28,30 @@ friedman.test(temporal_demand ~ interface | participant, responses_df)
 friedman.test(performance ~ interface | participant, responses_df)
 friedman.test(effort ~ interface | participant, responses_df)
 friedman.test(frustration ~ interface | participant, responses_df)
+
+# Print summary statistics
+mental_demand_means = ddply(responses_df, c("interface"), summarise,
+                       mean_mental_demand=mean(mental_demand), sd_mental_demand=sd(mental_demand))
+physical_demand_means = ddply(responses_df, c("interface"), summarise,
+                              mean_physical_demand=mean(physical_demand), sd_physical_demand=sd(physical_demand))
+temporal_demand_means = ddply(responses_df, c("interface"), summarise,
+                              mean_temporal_demand=mean(temporal_demand), sd_temporal_demand=sd(temporal_demand))
+performance_means = ddply(responses_df, c("interface"), summarise,
+                          mean_performance=mean(performance), sd_performance=sd(performance))
+effort_means = ddply(responses_df, c("interface"), summarise,
+                     mean_effort=mean(effort), sd_effort=sd(effort))
+frustration_means = ddply(responses_df, c("interface"), summarise,
+                          mean_frustration=mean(frustration), sd_frustration=sd(frustration))
+
+cat("\n")
+print(mental_demand_means)
+cat("\n")
+print(physical_demand_means)
+cat("\n")
+print(temporal_demand_means)
+cat("\n")
+print(performance_means)
+cat("\n")
+print(effort_means)
+cat("\n")
+print(frustration_means)
