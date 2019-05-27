@@ -29,6 +29,10 @@ friedman.test(performance ~ interface | participant, responses_df)
 friedman.test(effort ~ interface | participant, responses_df)
 friedman.test(frustration ~ interface | participant, responses_df)
 
+# Pairwise Wilcoxon Signed Ranks Tests
+pairwise.wilcox.test(responses_df$physical_demand, responses_df$interface, p.adjust.method="bonf", paired=TRUE)
+pairwise.wilcox.test(responses_df$frustration, responses_df$interface, p.adjust.method="bonf", paired=TRUE)
+
 # Print summary statistics
 mental_demand_means = ddply(responses_df, c("interface"), summarise,
                        mean_mental_demand=mean(mental_demand), sd_mental_demand=sd(mental_demand))
