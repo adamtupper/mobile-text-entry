@@ -53,7 +53,7 @@ ggplot(condition_data, aes(posture, mean_wpm, fill=interface)) +
   scale_fill_manual(name="Technique",
                     labels=c("Gesture", "Touch"),
                     values=c(cbp[3], cbp[7])) +
-  scale_x_discrete(labels=c("one finger", "one thumb", "two thumbs"))
+  scale_x_discrete(labels=c("one finger", "one thumb", "two thumbs")) +
   labs(title="Entry Rates by Posture and Technique", x="Posture", y="Mean Entry Rate (WPM)") +
   theme(plot.title=element_text(hjust=0.5, vjust=0.5),
         legend.position = c(0.01, 0.99), 
@@ -66,6 +66,7 @@ ggplot(condition_data, aes(posture, mean_cer, fill=interface)) +
   scale_fill_manual(name="Technique",
                     labels=c("Gesture", "Touch"),
                     values=c(cbp[3], cbp[7])) +
+  scale_x_discrete(labels=c("one finger", "one thumb", "two thumbs")) +
   labs(title="Error Rates by Posture and Technique", x="Posture", y="Mean Error Rate (CER)") +
   theme(plot.title=element_text(hjust=0.5, vjust=0.5),
         legend.position = c(0.01, 0.99), 
