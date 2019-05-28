@@ -1,6 +1,4 @@
-# mobile-text-entry
-
-Examining the effects of hand posture on mobile text entry performance for touch and gesture typing.
+# The Effects of Hand Posture on Touch and Gesture Typing Performance
 
 ## Abstract
 
