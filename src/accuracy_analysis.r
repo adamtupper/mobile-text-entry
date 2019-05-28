@@ -30,7 +30,7 @@ summarised_data = ddply(log_data, c("participant_id", "interface", "posture"), s
 # Multifactor ANOVA
 ezANOVA(data=summarised_data, dv=mean_cer, within=.(interface, posture), wid=participant_id)
 
-# Pairwise t-tests
+# Pairwise t-tests (ignore if main effects are not significant)
 pairwise.t.test(summarised_data$mean_cer, summarised_data$interface, p.adj="bonf", paired=T)
 pairwise.t.test(summarised_data$mean_cer, summarised_data$posture, p.adj="bonf", paired=T)
 
