@@ -50,10 +50,11 @@ ggplot(condition_data, aes(posture, mean_wpm, fill=interface)) +
   theme_bw() +
   geom_col(position="dodge") +
   geom_errorbar(aes(ymin=mean_wpm - sd_wpm, ymax=mean_wpm + sd_wpm), width=0.2, position=position_dodge(0.9)) +
-  scale_fill_manual(name="Interface",
-                    labels=c("SGK", "STK"),
+  scale_fill_manual(name="Technique",
+                    labels=c("Gesture", "Touch"),
                     values=c(cbp[3], cbp[7])) +
-  labs(title="Entry Rates by Posture and Interface", x="Posture", y="Mean Entry Rate (WPM)") +
+  scale_x_discrete(labels=c("one finger", "one thumb", "two thumbs"))
+  labs(title="Entry Rates by Posture and Technique", x="Posture", y="Mean Entry Rate (WPM)") +
   theme(plot.title=element_text(hjust=0.5, vjust=0.5),
         legend.position = c(0.01, 0.99), 
         legend.justification = c(0, 1))
@@ -62,10 +63,10 @@ ggplot(condition_data, aes(posture, mean_cer, fill=interface)) +
   theme_bw() +
   geom_col(position="dodge") +
   geom_errorbar(aes(ymin=pmax(mean_cer - sd_cer, 0), ymax=mean_cer + sd_cer), width=0.2, position=position_dodge(0.9)) +
-  scale_fill_manual(name="Interface",
-                    labels=c("SGK", "STK"),
+  scale_fill_manual(name="Technique",
+                    labels=c("Gesture", "Touch"),
                     values=c(cbp[3], cbp[7])) +
-  labs(title="Error Rates by Posture and Interface", x="Posture", y="Mean Error Rate (CER)") +
+  labs(title="Error Rates by Posture and Technique", x="Posture", y="Mean Error Rate (CER)") +
   theme(plot.title=element_text(hjust=0.5, vjust=0.5),
         legend.position = c(0.01, 0.99), 
         legend.justification = c(0, 1))
