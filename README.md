@@ -1,4 +1,4 @@
-# The Effects of Hand Posture on Touch and Gesture Typing Performance.
+# The Effects of Hand Posture on Touch and Gesture Typing Performance
 
 ## Abstract
 
